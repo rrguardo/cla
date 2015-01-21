@@ -1,0 +1,4634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OfficeGate Language Pack\n"
+"POT-Creation-Date: 2013-11-13 08:04+0100\n"
+"PO-Revision-Date: 2014-01-04 20:09+0200\n"
+"Last-Translator: Abdullah KIR <kirbiza@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"Language: oc\n"
+"X-Generator: Poedit 1.6.3\n"
+
+#: themes/rtl/views/footer.php:12 themes/ocean/views/footer.php:12
+#: themes/responsive/views/footer.php:11 themes/default/views/footer.php:24
+#: themes/anunciamex/views/footer.php:11 themes/bootplus/views/footer.php:12
+#: themes/kamaleon/views/footer.php:12
+#: themes/reclassifieds/views/footer.php:11 themes/olson/views/footer.php:13
+#: themes/moderndeluxe/views/footer.php:11
+msgid "Mobile Version"
+msgstr "Mobil Sürüm"
+
+#: themes/rtl/views/header.php:43 themes/ocean/views/header.php:43
+#: themes/responsive/views/header.php:42 themes/default/views/header.php:33
+#: themes/anunciamex/views/header.php:45 themes/bootplus/views/header.php:43
+#: themes/kamaleon/views/header.php:34
+#: themes/reclassifieds/views/header.php:45 themes/olson/views/header.php:44
+#: themes/olson/views/pages/ad/listing.php:15
+#: themes/moderndeluxe/views/header.php:39 themes/mobile/views/header.php:13
+msgid "Listing"
+msgstr "İlan"
+
+#: themes/rtl/views/header.php:45 themes/rtl/views/pages/home.php:40
+#: themes/ocean/views/header.php:45 themes/ocean/views/pages/home.php:40
+#: themes/responsive/views/header.php:76
+#: themes/responsive/views/pages/home.php:41
+#: themes/default/views/header.php:35
+#: themes/default/views/oc-panel/sidebar.php:13
+#: themes/default/views/oc-panel/pages/categories.php:4
+#: themes/default/views/oc-panel/pages/menu.php:40
+#: themes/default/views/pages/home.php:34
+#: themes/anunciamex/views/pages/home.php:43
+#: themes/bootplus/views/header.php:46 themes/bootplus/views/pages/home.php:40
+#: themes/kamaleon/views/pages/home.php:41
+#: themes/reclassifieds/views/pages/home.php:41
+#: themes/olson/views/header.php:46 themes/olson/views/pages/home.php:39
+#: themes/moderndeluxe/views/header.php:70
+#: themes/moderndeluxe/views/pages/home.php:41
+#: themes/mobile/views/pages/home.php:52
+#: oc/modules/widgets/views/widget_subscribers.php:8
+#: oc/modules/widgets/classes/widget/categories.php:18
+#: oc/modules/widgets/classes/widget/categories.php:25
+#: oc/modules/widgets/classes/widget/subscribers.php:23
+#: oc/classes/controller/panel/category.php:25
+#: oc/classes/controller/panel/category.php:27
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: themes/rtl/views/header.php:72 themes/ocean/views/header.php:72
+#: themes/responsive/views/header.php:44 themes/default/views/header.php:62
+#: themes/default/views/oc-panel/sidebar.php:18
+#: themes/default/views/pages/blog/listing.php:3
+#: themes/anunciamex/views/header.php:47 themes/bootplus/views/header.php:73
+#: themes/kamaleon/views/header.php:36
+#: themes/reclassifieds/views/header.php:47 themes/olson/views/header.php:72
+#: themes/moderndeluxe/views/header.php:41 oc/classes/controller/blog.php:9
+#: oc/classes/controller/blog.php:22 oc/classes/controller/blog.php:23
+msgid "Blog"
+msgstr "Blog"
+
+#: themes/rtl/views/header.php:83
+#: themes/rtl/views/pages/ad/advanced_search.php:12
+#: themes/rtl/views/pages/ad/advanced_search.php:83
+#: themes/ocean/views/header.php:83
+#: themes/ocean/views/pages/ad/advanced_search.php:12
+#: themes/ocean/views/pages/ad/advanced_search.php:83
+#: themes/responsive/views/header.php:46 themes/responsive/views/header.php:71
+#: themes/responsive/views/pages/ad/advanced_search.php:12
+#: themes/responsive/views/pages/ad/advanced_search.php:83
+#: themes/default/views/header.php:73
+#: themes/default/views/oc-panel/pages/menu.php:115
+#: themes/default/views/oc-panel/pages/ad.php:19
+#: themes/default/views/pages/ad/advanced_search.php:13
+#: themes/default/views/pages/ad/advanced_search.php:72
+#: themes/anunciamex/views/header.php:49 themes/anunciamex/views/sidebar.php:7
+#: themes/anunciamex/views/pages/ad/advanced_search.php:12
+#: themes/anunciamex/views/pages/ad/advanced_search.php:83
+#: themes/bootplus/views/header.php:84
+#: themes/bootplus/views/pages/ad/advanced_search.php:12
+#: themes/bootplus/views/pages/ad/advanced_search.php:83
+#: themes/kamaleon/views/header.php:38 themes/kamaleon/views/header.php:78
+#: themes/kamaleon/views/pages/ad/advanced_search.php:12
+#: themes/kamaleon/views/pages/ad/advanced_search.php:83
+#: themes/reclassifieds/views/header.php:49
+#: themes/reclassifieds/views/header.php:64
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:12
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:83
+#: themes/olson/views/header.php:74
+#: themes/olson/views/pages/ad/advanced_search.php:11
+#: themes/olson/views/pages/ad/advanced_search.php:86
+#: themes/moderndeluxe/views/header.php:43
+#: themes/moderndeluxe/views/header.php:58
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:12
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:83
+#: themes/mobile/views/pages/home.php:4
+#: themes/mobile/views/pages/ad/advansed_search.php:12
+#: themes/mobile/views/pages/ad/advanced_search.php:12
+#: themes/mobile/views/pages/ad/advanced_search.php:83
+msgid "Search"
+msgstr "Ara"
+
+#: themes/rtl/views/header.php:91 themes/ocean/views/header.php:91
+#: themes/default/views/header.php:81 themes/bootplus/views/header.php:92
+#: themes/olson/views/header.php:95 themes/moderndeluxe/views/header.php:69
+#: themes/mobile/views/footer.php:12
+msgid "Publish new "
+msgstr "Yeni paylaş"
+
+#: themes/rtl/views/header.php:105 themes/ocean/views/header.php:105
+#: themes/responsive/views/header.php:143
+#: themes/responsive/views/widget_login.php:8
+#: themes/responsive/views/widget_login.php:10
+#: themes/default/views/header.php:95 themes/default/views/widget_login.php:37
+#: themes/default/views/widget_login.php:39
+#: themes/default/views/pages/error/503.php:30
+#: themes/default/views/pages/error/503.php:32
+#: themes/default/views/pages/auth/login-form.php:31
+#: themes/default/views/pages/auth/login.php:4
+#: themes/default/views/pages/auth/register-form.php:37
+#: themes/default/views/pages/auth/register-form.php:39
+#: themes/anunciamex/views/header.php:130
+#: themes/anunciamex/views/widget_login.php:8
+#: themes/anunciamex/views/widget_login.php:10
+#: themes/bootplus/views/header.php:106 themes/kamaleon/views/header.php:152
+#: themes/reclassifieds/views/header.php:133
+#: themes/reclassifieds/views/widget_login.php:8
+#: themes/reclassifieds/views/widget_login.php:10
+#: themes/olson/views/header.php:110 themes/olson/views/widget_login.php:4
+#: themes/olson/views/widget_login.php:6
+#: themes/olson/views/pages/auth/login-form.php:34
+#: themes/olson/views/pages/auth/login.php:3
+#: themes/olson/views/pages/auth/register-form.php:39
+#: themes/olson/views/pages/auth/register-form.php:41
+#: themes/moderndeluxe/views/header.php:138
+#: themes/mobile/views/pages/auth/login-form.php:31
+#: themes/mobile/views/pages/auth/login.php:4
+#: themes/mobile/views/pages/auth/register-form.php:37
+#: themes/mobile/views/pages/auth/register-form.php:39
+#: oc/classes/controller/panel/auth.php:38
+msgid "Login"
+msgstr "Giriş"
+
+#: themes/rtl/views/header.php:116 themes/ocean/views/header.php:116
+#: themes/responsive/views/header.php:154 themes/default/views/header.php:106
+#: themes/anunciamex/views/header.php:141 themes/bootplus/views/header.php:117
+#: themes/kamaleon/views/header.php:163
+#: themes/reclassifieds/views/header.php:144
+#: themes/moderndeluxe/views/header.php:149
+msgid "Forgot password"
+msgstr "Şifremi unuttum"
+
+#: themes/rtl/views/header.php:127 themes/ocean/views/header.php:127
+#: themes/responsive/views/header.php:165 themes/default/views/header.php:117
+#: themes/default/views/pages/auth/forgot-form.php:13
+#: themes/default/views/pages/auth/register.php:5
+#: themes/default/views/pages/auth/register-social.php:21
+#: themes/default/views/pages/auth/login-form.php:28
+#: themes/default/views/pages/auth/register-form.php:41
+#: themes/anunciamex/views/header.php:152 themes/bootplus/views/header.php:128
+#: themes/kamaleon/views/header.php:174
+#: themes/reclassifieds/views/header.php:155 themes/olson/views/header.php:139
+#: themes/olson/views/pages/auth/forgot-form.php:15
+#: themes/olson/views/pages/auth/register.php:3
+#: themes/olson/views/pages/auth/login-form.php:31
+#: themes/olson/views/pages/auth/register-form.php:43
+#: themes/moderndeluxe/views/header.php:160
+#: themes/mobile/views/pages/auth/forgot-form.php:13
+#: themes/mobile/views/pages/auth/register.php:5
+#: themes/mobile/views/pages/auth/login-form.php:28
+#: themes/mobile/views/pages/auth/register-form.php:41
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#: themes/rtl/views/pages/home.php:4 themes/ocean/views/pages/home.php:4
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:70
+#: themes/default/views/pages/home.php:4
+#: themes/anunciamex/views/pages/home.php:5
+#: themes/bootplus/views/pages/home.php:4
+#: themes/kamaleon/views/pages/home.php:4
+#: themes/reclassifieds/views/pages/home.php:4
+#: themes/olson/views/pages/home.php:3
+#: themes/moderndeluxe/views/pages/home.php:4
+#: themes/mobile/views/pages/home.php:22
+#: oc/modules/widgets/classes/widget/ads.php:24
+msgid "Latest Ads"
+msgstr "Son İlanlar"
+
+#: themes/rtl/views/pages/ad/listing.php:50
+#: themes/rtl/views/pages/ad/listing.php:53
+#: themes/ocean/views/pages/ad/listing.php:50
+#: themes/ocean/views/pages/ad/listing.php:53
+#: themes/responsive/views/pages/ad/listing.php:50
+#: themes/responsive/views/pages/ad/listing.php:53
+#: themes/default/views/oc-panel/profile/ads.php:7
+#: themes/default/views/pages/ad/listing.php:9
+#: themes/default/views/pages/ad/listing.php:12
+#: themes/anunciamex/views/pages/ad/listing.php:51
+#: themes/anunciamex/views/pages/ad/listing.php:54
+#: themes/bootplus/views/pages/ad/listing.php:49
+#: themes/bootplus/views/pages/ad/listing.php:52
+#: themes/kamaleon/views/pages/ad/listing.php:50
+#: themes/kamaleon/views/pages/ad/listing.php:53
+#: themes/reclassifieds/views/pages/ad/listing.php:49
+#: themes/reclassifieds/views/pages/ad/listing.php:52
+#: themes/moderndeluxe/views/pages/ad/listing.php:49
+#: themes/moderndeluxe/views/pages/ad/listing.php:52
+msgid "New Advertisement"
+msgstr "Yeni İlan"
+
+#: themes/rtl/views/pages/ad/listing.php:51
+#: themes/rtl/views/pages/ad/listing.php:53
+#: themes/rtl/views/pages/ad/new.php:3
+#: themes/ocean/views/pages/ad/listing.php:51
+#: themes/ocean/views/pages/ad/listing.php:53
+#: themes/ocean/views/pages/ad/new.php:3
+#: themes/responsive/views/pages/ad/listing.php:51
+#: themes/responsive/views/pages/ad/listing.php:53
+#: themes/responsive/views/pages/ad/new.php:3
+#: themes/default/views/pages/ad/listing.php:10
+#: themes/default/views/pages/ad/listing.php:12
+#: themes/default/views/pages/ad/new.php:3
+#: themes/anunciamex/views/pages/ad/listing.php:52
+#: themes/anunciamex/views/pages/ad/listing.php:54
+#: themes/anunciamex/views/pages/ad/new.php:3
+#: themes/bootplus/views/pages/ad/listing.php:50
+#: themes/bootplus/views/pages/ad/listing.php:52
+#: themes/bootplus/views/pages/ad/new.php:3
+#: themes/kamaleon/views/pages/ad/listing.php:51
+#: themes/kamaleon/views/pages/ad/listing.php:53
+#: themes/kamaleon/views/pages/ad/new.php:3
+#: themes/reclassifieds/views/pages/ad/listing.php:50
+#: themes/reclassifieds/views/pages/ad/listing.php:52
+#: themes/reclassifieds/views/pages/ad/new.php:3
+#: themes/olson/views/pages/ad/new.php:3
+#: themes/moderndeluxe/views/pages/ad/listing.php:50
+#: themes/moderndeluxe/views/pages/ad/listing.php:52
+#: themes/moderndeluxe/views/pages/ad/new.php:3
+#: themes/mobile/views/pages/ad/new.php:5 oc/classes/controller/new.php:17
+#: oc/classes/controller/new.php:18
+msgid "Publish new advertisement"
+msgstr "Yeni ilan gönder"
+
+#: themes/rtl/views/pages/ad/listing.php:71
+#: themes/ocean/views/pages/ad/listing.php:71
+#: themes/responsive/views/pages/ad/listing.php:71
+#: themes/default/views/oc-panel/profile/ads.php:93
+#: themes/default/views/oc-panel/pages/ad.php:99
+#: themes/default/views/oc-panel/pages/ad.php:202
+#: themes/default/views/pages/ad/listing.php:23
+#: themes/anunciamex/views/pages/ad/listing.php:72
+#: themes/bootplus/views/pages/ad/listing.php:70
+#: themes/kamaleon/views/pages/ad/listing.php:71
+#: themes/reclassifieds/views/pages/ad/listing.php:70
+#: themes/olson/views/pages/ad/listing.php:24
+#: themes/moderndeluxe/views/pages/ad/listing.php:70
+#: oc/modules/widgets/classes/widget/featured.php:25
+msgid "Featured"
+msgstr "Sponsor"
+
+#: themes/rtl/views/pages/ad/listing.php:94
+#: themes/ocean/views/pages/ad/listing.php:94
+#: themes/responsive/views/pages/ad/listing.php:94
+#: themes/default/views/pages/userprofile.php:95
+#: themes/default/views/pages/ad/listing.php:45
+#: themes/bootplus/views/pages/ad/listing.php:93
+#: themes/kamaleon/views/pages/ad/listing.php:94
+#: themes/reclassifieds/views/pages/ad/listing.php:93
+#: themes/moderndeluxe/views/pages/ad/listing.php:93
+#: themes/mobile/views/pages/userprofile.php:84
+#: themes/mobile/views/pages/userprofile.php:86
+msgid "Publish Date"
+msgstr "Yayınlanma Tarihi"
+
+#: themes/rtl/views/pages/ad/listing.php:97
+#: themes/rtl/views/pages/ad/new.php:128
+#: themes/rtl/views/pages/ad/single.php:59
+#: themes/ocean/views/pages/ad/listing.php:97
+#: themes/ocean/views/pages/ad/new.php:128
+#: themes/ocean/views/pages/ad/single.php:59
+#: themes/responsive/views/pages/ad/listing.php:97
+#: themes/responsive/views/pages/ad/new.php:128
+#: themes/responsive/views/pages/ad/single.php:56
+#: themes/default/views/oc-panel/profile/edit_ad.php:217
+#: themes/default/views/oc-panel/pages/fields/index.php:99
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:206
+#: themes/default/views/pages/ad/listing.php:48
+#: themes/default/views/pages/ad/new.php:128
+#: themes/default/views/pages/ad/single.php:59
+#: themes/anunciamex/views/pages/ad/new.php:128
+#: themes/anunciamex/views/pages/ad/single.php:34
+#: themes/bootplus/views/pages/ad/listing.php:96
+#: themes/bootplus/views/pages/ad/new.php:128
+#: themes/bootplus/views/pages/ad/single.php:59
+#: themes/kamaleon/views/pages/ad/listing.php:97
+#: themes/kamaleon/views/pages/ad/new.php:128
+#: themes/kamaleon/views/pages/ad/single.php:56
+#: themes/reclassifieds/views/pages/ad/listing.php:96
+#: themes/reclassifieds/views/pages/ad/new.php:128
+#: themes/reclassifieds/views/pages/ad/single.php:56
+#: themes/olson/views/pages/ad/new.php:128
+#: themes/olson/views/pages/ad/single.php:49
+#: themes/moderndeluxe/views/pages/ad/listing.php:96
+#: themes/moderndeluxe/views/pages/ad/new.php:128
+#: themes/moderndeluxe/views/pages/ad/single.php:56
+#: themes/mobile/views/pages/ad/listing.php:31
+#: themes/mobile/views/pages/ad/new.php:80
+#: themes/mobile/views/pages/ad/single.php:29
+#: oc/modules/widgets/views/widget_subscribers.php:71
+#: oc/modules/widgets/classes/widget/subscribers.php:41
+#: oc/classes/model/ad.php:95 oc/classes/model/category.php:81
+msgid "Price"
+msgstr "Fiyat"
+
+#: themes/rtl/views/pages/ad/listing.php:103
+#: themes/ocean/views/pages/ad/listing.php:103
+#: themes/responsive/views/pages/ad/listing.php:103
+#: themes/default/views/oc-panel/pages/themes/theme.php:6
+#: themes/default/views/oc-panel/pages/widgets/main.php:94
+#: themes/default/views/oc-panel/pages/categories.php:5
+#: themes/default/views/oc-panel/pages/locations.php:5
+#: themes/default/views/oc-panel/pages/newsletter.php:6
+#: themes/default/views/oc-panel/pages/translations/edit.php:3
+#: themes/default/views/oc-panel/pages/translations/index.php:5
+#: themes/default/views/oc-panel/pages/ad.php:17
+#: themes/default/views/pages/blog/listing.php:17
+#: themes/default/views/pages/ad/listing.php:54
+#: themes/bootplus/views/pages/ad/listing.php:102
+#: themes/kamaleon/views/pages/ad/listing.php:103
+#: themes/reclassifieds/views/pages/ad/listing.php:102
+#: themes/moderndeluxe/views/pages/ad/listing.php:102
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: themes/rtl/views/pages/ad/listing.php:106
+#: themes/rtl/views/pages/ad/listing.php:119
+#: themes/ocean/views/pages/ad/listing.php:106
+#: themes/ocean/views/pages/ad/listing.php:119
+#: themes/responsive/views/pages/ad/listing.php:106
+#: themes/responsive/views/pages/ad/listing.php:119
+#: themes/default/views/oc-panel/crud/index.php:35
+#: themes/default/views/oc-panel/pages/index.php:41
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:13
+#: themes/default/views/oc-panel/pages/categories.php:24
+#: themes/default/views/oc-panel/pages/fields/index.php:36
+#: themes/default/views/oc-panel/pages/locations.php:25
+#: themes/default/views/oc-panel/pages/content/edit.php:6
+#: themes/default/views/oc-panel/pages/content/edit.php:8
+#: themes/default/views/oc-panel/pages/content/edit.php:41
+#: themes/default/views/oc-panel/pages/content/list.php:12
+#: themes/default/views/oc-panel/pages/content/list.php:48
+#: themes/default/views/oc-panel/pages/translations/index.php:24
+#: themes/default/views/pages/blog/listing.php:20
+#: themes/default/views/pages/userprofile.php:102
+#: themes/default/views/pages/userprofile.php:115
+#: themes/default/views/pages/ad/listing.php:57
+#: themes/default/views/pages/ad/listing.php:70
+#: themes/anunciamex/views/pages/ad/listing.php:110
+#: themes/anunciamex/views/pages/ad/listing.php:123
+#: themes/bootplus/views/pages/ad/listing.php:105
+#: themes/bootplus/views/pages/ad/listing.php:118
+#: themes/kamaleon/views/pages/ad/listing.php:106
+#: themes/kamaleon/views/pages/ad/listing.php:119
+#: themes/reclassifieds/views/pages/ad/listing.php:105
+#: themes/reclassifieds/views/pages/ad/listing.php:118
+#: themes/moderndeluxe/views/pages/ad/listing.php:105
+#: themes/moderndeluxe/views/pages/ad/listing.php:118
+#: themes/mobile/views/pages/ad/single.php:53
+#: oc/classes/controller/panel/content.php:99
+#: oc/classes/controller/panel/fields.php:78
+msgid "Edit"
+msgstr "Düzenle"
+
+#: themes/rtl/views/pages/ad/listing.php:108
+#: themes/rtl/views/pages/ad/listing.php:121
+#: themes/ocean/views/pages/ad/listing.php:108
+#: themes/ocean/views/pages/ad/listing.php:121
+#: themes/responsive/views/pages/ad/listing.php:108
+#: themes/responsive/views/pages/ad/listing.php:121
+#: themes/default/views/oc-panel/profile/ads.php:75
+#: themes/default/views/oc-panel/pages/moderate.php:32
+#: themes/default/views/oc-panel/pages/moderate.php:102
+#: themes/default/views/oc-panel/pages/ad.php:76
+#: themes/default/views/oc-panel/pages/ad.php:177
+#: themes/default/views/pages/userprofile.php:104
+#: themes/default/views/pages/ad/listing.php:59
+#: themes/default/views/pages/ad/listing.php:72
+#: themes/anunciamex/views/pages/ad/listing.php:112
+#: themes/anunciamex/views/pages/ad/listing.php:125
+#: themes/bootplus/views/pages/ad/listing.php:107
+#: themes/bootplus/views/pages/ad/listing.php:120
+#: themes/kamaleon/views/pages/ad/listing.php:108
+#: themes/kamaleon/views/pages/ad/listing.php:121
+#: themes/reclassifieds/views/pages/ad/listing.php:107
+#: themes/reclassifieds/views/pages/ad/listing.php:120
+#: themes/moderndeluxe/views/pages/ad/listing.php:107
+#: themes/moderndeluxe/views/pages/ad/listing.php:120
+msgid "Deactivate?"
+msgstr "Pasif et?"
+
+#: themes/rtl/views/pages/ad/listing.php:108
+#: themes/rtl/views/pages/ad/listing.php:121
+#: themes/ocean/views/pages/ad/listing.php:108
+#: themes/ocean/views/pages/ad/listing.php:121
+#: themes/responsive/views/pages/ad/listing.php:108
+#: themes/responsive/views/pages/ad/listing.php:121
+#: themes/default/views/oc-panel/profile/ads.php:76
+#: themes/default/views/oc-panel/pages/moderate.php:33
+#: themes/default/views/oc-panel/pages/moderate.php:103
+#: themes/default/views/oc-panel/pages/ad.php:77
+#: themes/default/views/oc-panel/pages/ad.php:178
+#: themes/default/views/pages/userprofile.php:104
+#: themes/default/views/pages/ad/listing.php:59
+#: themes/default/views/pages/ad/listing.php:72
+#: themes/anunciamex/views/pages/ad/listing.php:112
+#: themes/anunciamex/views/pages/ad/listing.php:125
+#: themes/bootplus/views/pages/ad/listing.php:107
+#: themes/bootplus/views/pages/ad/listing.php:120
+#: themes/kamaleon/views/pages/ad/listing.php:108
+#: themes/kamaleon/views/pages/ad/listing.php:121
+#: themes/reclassifieds/views/pages/ad/listing.php:107
+#: themes/reclassifieds/views/pages/ad/listing.php:120
+#: themes/moderndeluxe/views/pages/ad/listing.php:107
+#: themes/moderndeluxe/views/pages/ad/listing.php:120
+msgid "Deactivate"
+msgstr "Pasif et"
+
+#: themes/rtl/views/pages/ad/listing.php:111
+#: themes/ocean/views/pages/ad/listing.php:111
+#: themes/responsive/views/pages/ad/listing.php:111
+#: themes/default/views/oc-panel/pages/moderate.php:26
+#: themes/default/views/oc-panel/pages/moderate.php:108
+#: themes/default/views/oc-panel/pages/ad.php:68
+#: themes/default/views/oc-panel/pages/ad.php:169
+#: themes/default/views/pages/userprofile.php:107
+#: themes/default/views/pages/ad/listing.php:62
+#: themes/anunciamex/views/pages/ad/listing.php:115
+#: themes/bootplus/views/pages/ad/listing.php:110
+#: themes/kamaleon/views/pages/ad/listing.php:111
+#: themes/reclassifieds/views/pages/ad/listing.php:110
+#: themes/moderndeluxe/views/pages/ad/listing.php:110
+msgid "Spam?"
+msgstr "Spam?"
+
+#: themes/rtl/views/pages/ad/listing.php:111
+#: themes/ocean/views/pages/ad/listing.php:111
+#: themes/responsive/views/pages/ad/listing.php:111
+#: themes/default/views/oc-panel/profile/ads.php:51
+#: themes/default/views/oc-panel/pages/moderate.php:27
+#: themes/default/views/oc-panel/pages/moderate.php:87
+#: themes/default/views/oc-panel/pages/moderate.php:109
+#: themes/default/views/oc-panel/pages/ad.php:13
+#: themes/default/views/oc-panel/pages/ad.php:25
+#: themes/default/views/oc-panel/pages/ad.php:69
+#: themes/default/views/oc-panel/pages/ad.php:151
+#: themes/default/views/oc-panel/pages/ad.php:170
+#: themes/default/views/pages/userprofile.php:107
+#: themes/default/views/pages/ad/listing.php:62
+#: themes/anunciamex/views/pages/ad/listing.php:115
+#: themes/bootplus/views/pages/ad/listing.php:110
+#: themes/kamaleon/views/pages/ad/listing.php:111
+#: themes/reclassifieds/views/pages/ad/listing.php:110
+#: themes/moderndeluxe/views/pages/ad/listing.php:110
+msgid "Spam"
+msgstr "Spam"
+
+#: themes/rtl/views/pages/ad/listing.php:114
+#: themes/ocean/views/pages/ad/listing.php:114
+#: themes/responsive/views/pages/ad/listing.php:114
+#: themes/default/views/oc-panel/profile/edit_ad.php:165
+#: themes/default/views/oc-panel/pages/moderate.php:44
+#: themes/default/views/oc-panel/pages/moderate.php:120
+#: themes/default/views/oc-panel/pages/ad.php:91
+#: themes/default/views/oc-panel/pages/ad.php:193
+#: themes/default/views/pages/blog/listing.php:22
+#: themes/default/views/pages/userprofile.php:110
+#: themes/default/views/pages/ad/listing.php:65
+#: themes/anunciamex/views/pages/ad/listing.php:118
+#: themes/bootplus/views/pages/ad/listing.php:113
+#: themes/kamaleon/views/pages/ad/listing.php:114
+#: themes/reclassifieds/views/pages/ad/listing.php:113
+#: themes/moderndeluxe/views/pages/ad/listing.php:113
+msgid "Delete?"
+msgstr "Sil?"
+
+#: themes/rtl/views/pages/ad/listing.php:114
+#: themes/ocean/views/pages/ad/listing.php:114
+#: themes/responsive/views/pages/ad/listing.php:114
+#: themes/default/views/oc-panel/profile/edit_ad.php:174
+#: themes/default/views/oc-panel/crud/index.php:41
+#: themes/default/views/oc-panel/pages/index.php:47
+#: themes/default/views/oc-panel/pages/moderate.php:45
+#: themes/default/views/oc-panel/pages/moderate.php:121
+#: themes/default/views/oc-panel/pages/content/list.php:53
+#: themes/default/views/oc-panel/pages/ad.php:92
+#: themes/default/views/oc-panel/pages/ad.php:194
+#: themes/default/views/pages/blog/listing.php:22
+#: themes/default/views/pages/userprofile.php:110
+#: themes/default/views/pages/ad/listing.php:65
+#: themes/anunciamex/views/pages/ad/listing.php:118
+#: themes/bootplus/views/pages/ad/listing.php:113
+#: themes/kamaleon/views/pages/ad/listing.php:114
+#: themes/reclassifieds/views/pages/ad/listing.php:113
+#: themes/moderndeluxe/views/pages/ad/listing.php:113
+msgid "Delete"
+msgstr "Sil"
+
+#: themes/rtl/views/pages/ad/listing.php:139
+#: themes/ocean/views/pages/ad/listing.php:139
+#: themes/responsive/views/pages/ad/listing.php:139
+#: themes/default/views/pages/ad/listing.php:83
+#: themes/anunciamex/views/pages/ad/listing.php:145
+#: themes/bootplus/views/pages/ad/listing.php:138
+#: themes/kamaleon/views/pages/ad/listing.php:139
+#: themes/reclassifieds/views/pages/ad/listing.php:138
+#: themes/olson/views/pages/ad/listing.php:68
+#: themes/moderndeluxe/views/pages/ad/listing.php:138
+#: themes/mobile/views/pages/ad/listing.php:51
+msgid "We do not have any advertisements in this category"
+msgstr "Bu kategoride henüz ilan yayınlanmamış"
+
+#: themes/rtl/views/pages/ad/new.php:10 themes/rtl/views/pages/ad/new.php:12
+#: themes/ocean/views/pages/ad/new.php:10
+#: themes/ocean/views/pages/ad/new.php:12
+#: themes/responsive/views/pages/ad/new.php:10
+#: themes/responsive/views/pages/ad/new.php:12
+#: themes/default/views/oc-panel/profile/edit_ad.php:54
+#: themes/default/views/oc-panel/profile/edit_ad.php:56
+#: themes/default/views/oc-panel/pages/content/edit.php:15
+#: themes/default/views/oc-panel/pages/content/create.php:14
+#: themes/default/views/oc-panel/pages/content/create.php:16
+#: themes/default/views/oc-panel/pages/content/list.php:29
+#: themes/default/views/oc-panel/pages/menu.php:143
+#: themes/default/views/oc-panel/pages/menu.php:145
+#: themes/default/views/pages/ad/new.php:10
+#: themes/default/views/pages/ad/new.php:12
+#: themes/anunciamex/views/pages/ad/new.php:10
+#: themes/anunciamex/views/pages/ad/new.php:12
+#: themes/bootplus/views/pages/ad/new.php:10
+#: themes/bootplus/views/pages/ad/new.php:12
+#: themes/kamaleon/views/pages/ad/new.php:10
+#: themes/kamaleon/views/pages/ad/new.php:12
+#: themes/reclassifieds/views/pages/ad/new.php:10
+#: themes/reclassifieds/views/pages/ad/new.php:12
+#: themes/olson/views/pages/ad/new.php:8
+#: themes/olson/views/pages/ad/new.php:10
+#: themes/moderndeluxe/views/pages/ad/new.php:10
+#: themes/moderndeluxe/views/pages/ad/new.php:12
+#: themes/mobile/views/pages/ad/new.php:12
+#: themes/mobile/views/pages/ad/new.php:14 oc/classes/model/ad.php:91
+msgid "Title"
+msgstr "Başlık"
+
+#: themes/rtl/views/pages/ad/new.php:18
+#: themes/rtl/views/pages/ad/advanced_search.php:17
+#: themes/ocean/views/pages/ad/new.php:18
+#: themes/ocean/views/pages/ad/advanced_search.php:17
+#: themes/responsive/views/pages/ad/new.php:18
+#: themes/responsive/views/pages/ad/advanced_search.php:17
+#: themes/default/views/oc-panel/profile/subscriptions.php:8
+#: themes/default/views/oc-panel/profile/ads.php:14
+#: themes/default/views/oc-panel/profile/edit_ad.php:62
+#: themes/default/views/oc-panel/header.php:36
+#: themes/default/views/oc-panel/pages/moderate.php:16
+#: themes/default/views/oc-panel/pages/menu.php:49
+#: themes/default/views/oc-panel/pages/ad.php:57
+#: themes/default/views/pages/ad/new.php:18
+#: themes/default/views/pages/ad/advanced_search.php:18
+#: themes/anunciamex/views/pages/ad/new.php:18
+#: themes/anunciamex/views/pages/ad/advanced_search.php:17
+#: themes/bootplus/views/pages/ad/new.php:18
+#: themes/bootplus/views/pages/ad/advanced_search.php:17
+#: themes/kamaleon/views/pages/ad/new.php:18
+#: themes/kamaleon/views/pages/ad/advanced_search.php:17
+#: themes/reclassifieds/views/pages/ad/new.php:18
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:17
+#: themes/olson/views/pages/ad/new.php:16
+#: themes/olson/views/pages/ad/advanced_search.php:16
+#: themes/moderndeluxe/views/pages/ad/new.php:18
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:17
+#: themes/mobile/views/pages/ad/listing.php:14
+#: themes/mobile/views/pages/ad/new.php:19
+#: themes/mobile/views/pages/ad/advansed_search.php:16
+#: themes/mobile/views/pages/ad/advanced_search.php:18
+#: oc/classes/model/ad.php:88
+msgid "Category"
+msgstr "Kategori"
+
+#: themes/rtl/views/pages/ad/new.php:79
+#: themes/rtl/views/pages/ad/advanced_search.php:40
+#: themes/ocean/views/pages/ad/new.php:79
+#: themes/ocean/views/pages/ad/advanced_search.php:40
+#: themes/responsive/views/pages/ad/new.php:79
+#: themes/responsive/views/pages/ad/advanced_search.php:40
+#: themes/default/views/oc-panel/profile/subscriptions.php:9
+#: themes/default/views/oc-panel/profile/ads.php:15
+#: themes/default/views/oc-panel/profile/edit_ad.php:126
+#: themes/default/views/oc-panel/header.php:37
+#: themes/default/views/oc-panel/pages/moderate.php:17
+#: themes/default/views/oc-panel/pages/fields/index.php:84
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:191
+#: themes/default/views/oc-panel/pages/ad.php:58
+#: themes/default/views/pages/ad/new.php:79
+#: themes/default/views/pages/ad/advanced_search.php:54
+#: themes/anunciamex/views/pages/ad/new.php:79
+#: themes/anunciamex/views/pages/ad/advanced_search.php:40
+#: themes/bootplus/views/pages/ad/new.php:79
+#: themes/bootplus/views/pages/ad/advanced_search.php:40
+#: themes/kamaleon/views/pages/ad/new.php:79
+#: themes/kamaleon/views/pages/ad/advanced_search.php:40
+#: themes/reclassifieds/views/pages/ad/new.php:79
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:40
+#: themes/olson/views/pages/ad/new.php:77
+#: themes/olson/views/pages/ad/advanced_search.php:39
+#: themes/moderndeluxe/views/pages/ad/new.php:79
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:40
+#: themes/mobile/views/pages/ad/new.php:38
+#: themes/mobile/views/pages/ad/advansed_search.php:27
+#: themes/mobile/views/pages/ad/advanced_search.php:41
+#: oc/modules/widgets/views/widget_subscribers.php:32
+#: oc/classes/model/user.php:101 oc/classes/model/ad.php:89
+msgid "Location"
+msgstr "Konum"
+
+#: themes/rtl/views/pages/ad/new.php:97 themes/ocean/views/pages/ad/new.php:97
+#: themes/responsive/views/pages/ad/new.php:97
+#: themes/default/views/oc-panel/profile/edit_ad.php:146
+#: themes/default/views/oc-panel/pages/content/edit.php:27
+#: themes/default/views/oc-panel/pages/content/create.php:26
+#: themes/default/views/pages/ad/new.php:97
+#: themes/anunciamex/views/pages/ad/new.php:97
+#: themes/bootplus/views/pages/ad/new.php:97
+#: themes/kamaleon/views/pages/ad/new.php:97
+#: themes/reclassifieds/views/pages/ad/new.php:97
+#: themes/olson/views/pages/ad/new.php:95
+#: themes/moderndeluxe/views/pages/ad/new.php:97
+#: themes/mobile/views/pages/ad/new.php:56 oc/classes/model/ad.php:93
+#: oc/classes/model/location.php:65 oc/classes/model/category.php:80
+msgid "Description"
+msgstr "Açıklama"
+
+#: themes/rtl/views/pages/ad/new.php:104
+#: themes/ocean/views/pages/ad/new.php:104
+#: themes/responsive/views/pages/ad/new.php:104
+#: themes/default/views/oc-panel/profile/edit_ad.php:185
+#: themes/default/views/pages/ad/new.php:104
+#: themes/anunciamex/views/pages/ad/new.php:104
+#: themes/bootplus/views/pages/ad/new.php:104
+#: themes/kamaleon/views/pages/ad/new.php:104
+#: themes/reclassifieds/views/pages/ad/new.php:104
+#: themes/olson/views/pages/ad/new.php:103
+#: themes/moderndeluxe/views/pages/ad/new.php:104
+msgid "Images"
+msgstr "Resimler"
+
+#: themes/rtl/views/pages/ad/new.php:112 themes/rtl/views/pages/ad/new.php:114
+#: themes/ocean/views/pages/ad/new.php:112
+#: themes/ocean/views/pages/ad/new.php:114
+#: themes/responsive/views/pages/ad/new.php:112
+#: themes/responsive/views/pages/ad/new.php:114
+#: themes/default/views/oc-panel/profile/edit_ad.php:193
+#: themes/default/views/oc-panel/profile/edit_ad.php:195
+#: themes/default/views/oc-panel/pages/fields/index.php:54
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:161
+#: themes/default/views/pages/ad/new.php:112
+#: themes/default/views/pages/ad/new.php:114
+#: themes/anunciamex/views/pages/ad/new.php:112
+#: themes/anunciamex/views/pages/ad/new.php:114
+#: themes/bootplus/views/pages/ad/new.php:112
+#: themes/bootplus/views/pages/ad/new.php:114
+#: themes/kamaleon/views/pages/ad/new.php:112
+#: themes/kamaleon/views/pages/ad/new.php:114
+#: themes/reclassifieds/views/pages/ad/new.php:112
+#: themes/reclassifieds/views/pages/ad/new.php:114
+#: themes/olson/views/pages/ad/new.php:112
+#: themes/olson/views/pages/ad/new.php:114
+#: themes/moderndeluxe/views/pages/ad/new.php:112
+#: themes/moderndeluxe/views/pages/ad/new.php:114
+#: themes/mobile/views/pages/ad/new.php:64
+#: themes/mobile/views/pages/ad/new.php:66 oc/classes/model/ad.php:96
+msgid "Phone"
+msgstr "Telefon"
+
+#: themes/rtl/views/pages/ad/new.php:120 themes/rtl/views/pages/ad/new.php:122
+#: themes/ocean/views/pages/ad/new.php:120
+#: themes/ocean/views/pages/ad/new.php:122
+#: themes/responsive/views/pages/ad/new.php:120
+#: themes/responsive/views/pages/ad/new.php:122
+#: themes/default/views/oc-panel/profile/edit_ad.php:201
+#: themes/default/views/oc-panel/profile/edit_ad.php:203
+#: themes/default/views/oc-panel/pages/fields/index.php:139
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:83
+#: themes/default/views/pages/ad/new.php:120
+#: themes/default/views/pages/ad/new.php:122
+#: themes/anunciamex/views/pages/ad/new.php:120
+#: themes/anunciamex/views/pages/ad/new.php:122
+#: themes/bootplus/views/pages/ad/new.php:120
+#: themes/bootplus/views/pages/ad/new.php:122
+#: themes/kamaleon/views/pages/ad/new.php:120
+#: themes/kamaleon/views/pages/ad/new.php:122
+#: themes/reclassifieds/views/pages/ad/new.php:120
+#: themes/reclassifieds/views/pages/ad/new.php:122
+#: themes/olson/views/pages/ad/new.php:120
+#: themes/olson/views/pages/ad/new.php:122
+#: themes/moderndeluxe/views/pages/ad/new.php:120
+#: themes/moderndeluxe/views/pages/ad/new.php:122
+#: themes/mobile/views/pages/ad/new.php:72
+#: themes/mobile/views/pages/ad/new.php:74 oc/classes/model/ad.php:94
+msgid "Address"
+msgstr "Adres"
+
+#: themes/rtl/views/pages/ad/new.php:138 themes/rtl/views/pages/ad/new.php:140
+#: themes/ocean/views/pages/ad/new.php:138
+#: themes/ocean/views/pages/ad/new.php:140
+#: themes/responsive/views/pages/ad/new.php:138
+#: themes/responsive/views/pages/ad/new.php:140
+#: themes/default/views/oc-panel/profile/edit_ad.php:209
+#: themes/default/views/oc-panel/profile/edit_ad.php:211
+#: themes/default/views/oc-panel/pages/fields/index.php:69
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:176
+#: themes/default/views/pages/ad/new.php:138
+#: themes/default/views/pages/ad/new.php:140
+#: themes/anunciamex/views/pages/ad/new.php:138
+#: themes/anunciamex/views/pages/ad/new.php:140
+#: themes/bootplus/views/pages/ad/new.php:138
+#: themes/bootplus/views/pages/ad/new.php:140
+#: themes/kamaleon/views/pages/ad/new.php:138
+#: themes/kamaleon/views/pages/ad/new.php:140
+#: themes/reclassifieds/views/pages/ad/new.php:138
+#: themes/reclassifieds/views/pages/ad/new.php:140
+#: themes/olson/views/pages/ad/new.php:136
+#: themes/olson/views/pages/ad/new.php:138
+#: themes/moderndeluxe/views/pages/ad/new.php:138
+#: themes/moderndeluxe/views/pages/ad/new.php:140
+#: themes/mobile/views/pages/ad/new.php:90
+#: themes/mobile/views/pages/ad/new.php:92
+#: themes/mobile/views/pages/ad/single.php:38
+msgid "Website"
+msgstr "Websitesi"
+
+#: themes/rtl/views/pages/ad/new.php:146 themes/rtl/views/pages/ad/new.php:148
+#: themes/rtl/views/pages/ad/single.php:121
+#: themes/rtl/views/pages/ad/single.php:123
+#: themes/ocean/views/pages/ad/new.php:146
+#: themes/ocean/views/pages/ad/new.php:148
+#: themes/ocean/views/pages/ad/single.php:121
+#: themes/ocean/views/pages/ad/single.php:123
+#: themes/responsive/views/pages/ad/new.php:146
+#: themes/responsive/views/pages/ad/new.php:148
+#: themes/responsive/views/pages/ad/single.php:117
+#: themes/responsive/views/pages/ad/single.php:119
+#: themes/default/views/oc-panel/profile/edit.php:10
+#: themes/default/views/oc-panel/profile/edit.php:12
+#: themes/default/views/oc-panel/profile/ads.php:13
+#: themes/default/views/oc-panel/profile/edit_ad.php:35
+#: themes/default/views/oc-panel/pages/moderate.php:15
+#: themes/default/views/oc-panel/pages/fields/new.php:11
+#: themes/default/views/oc-panel/pages/fields/new.php:13
+#: themes/default/views/oc-panel/pages/fields/update.php:11
+#: themes/default/views/oc-panel/pages/fields/update.php:13
+#: themes/default/views/oc-panel/pages/ad.php:56
+#: themes/default/views/pages/contact.php:9
+#: themes/default/views/pages/contact.php:11
+#: themes/default/views/pages/userprofile.php:37
+#: themes/default/views/pages/userprofile.php:39
+#: themes/default/views/pages/auth/register-social.php:7
+#: themes/default/views/pages/auth/register-social.php:9
+#: themes/default/views/pages/auth/register-form.php:6
+#: themes/default/views/pages/auth/register-form.php:8
+#: themes/default/views/pages/ad/new.php:146
+#: themes/default/views/pages/ad/new.php:148
+#: themes/default/views/pages/ad/single.php:104
+#: themes/default/views/pages/ad/single.php:106
+#: themes/anunciamex/views/pages/contact.php:9
+#: themes/anunciamex/views/pages/contact.php:11
+#: themes/anunciamex/views/pages/ad/new.php:146
+#: themes/anunciamex/views/pages/ad/new.php:148
+#: themes/anunciamex/views/pages/ad/single.php:95
+#: themes/anunciamex/views/pages/ad/single.php:97
+#: themes/bootplus/views/pages/ad/new.php:146
+#: themes/bootplus/views/pages/ad/new.php:148
+#: themes/bootplus/views/pages/ad/single.php:121
+#: themes/bootplus/views/pages/ad/single.php:123
+#: themes/kamaleon/views/pages/ad/new.php:146
+#: themes/kamaleon/views/pages/ad/new.php:148
+#: themes/kamaleon/views/pages/ad/single.php:116
+#: themes/kamaleon/views/pages/ad/single.php:118
+#: themes/reclassifieds/views/pages/ad/new.php:146
+#: themes/reclassifieds/views/pages/ad/new.php:148
+#: themes/reclassifieds/views/pages/ad/single.php:118
+#: themes/reclassifieds/views/pages/ad/single.php:120
+#: themes/olson/views/pages/contact.php:9
+#: themes/olson/views/pages/contact.php:11
+#: themes/olson/views/pages/auth/register-form.php:7
+#: themes/olson/views/pages/auth/register-form.php:9
+#: themes/olson/views/pages/ad/new.php:144
+#: themes/olson/views/pages/ad/new.php:146
+#: themes/olson/views/pages/ad/single.php:113
+#: themes/olson/views/pages/ad/single.php:115
+#: themes/moderndeluxe/views/pages/ad/new.php:146
+#: themes/moderndeluxe/views/pages/ad/new.php:148
+#: themes/moderndeluxe/views/pages/ad/single.php:117
+#: themes/moderndeluxe/views/pages/ad/single.php:119
+#: themes/mobile/views/pages/contact.php:10
+#: themes/mobile/views/pages/contact.php:12
+#: themes/mobile/views/pages/userprofile.php:27
+#: themes/mobile/views/pages/userprofile.php:29
+#: themes/mobile/views/pages/auth/register-form.php:6
+#: themes/mobile/views/pages/auth/register-form.php:8
+#: themes/mobile/views/pages/ad/new.php:98
+#: themes/mobile/views/pages/ad/new.php:100
+#: themes/mobile/views/pages/ad/single.php:70
+#: themes/mobile/views/pages/ad/single.php:72
+#: oc/modules/widgets/views/widget_contact.php:7
+#: oc/modules/widgets/views/widget_contact.php:9 oc/classes/model/user.php:96
+#: oc/classes/model/location.php:61 oc/classes/model/category.php:74
+msgid "Name"
+msgstr "İsim"
+
+#: themes/rtl/views/pages/ad/new.php:152 themes/rtl/views/pages/ad/new.php:154
+#: themes/rtl/views/pages/ad/single.php:128
+#: themes/rtl/views/pages/ad/single.php:130
+#: themes/ocean/views/pages/ad/new.php:152
+#: themes/ocean/views/pages/ad/new.php:154
+#: themes/ocean/views/pages/ad/single.php:128
+#: themes/ocean/views/pages/ad/single.php:130
+#: themes/responsive/views/pages/ad/new.php:152
+#: themes/responsive/views/pages/ad/new.php:154
+#: themes/responsive/views/pages/ad/single.php:124
+#: themes/responsive/views/pages/ad/single.php:126
+#: themes/default/views/oc-panel/profile/edit.php:16
+#: themes/default/views/oc-panel/profile/edit.php:18
+#: themes/default/views/oc-panel/profile/edit_ad.php:36
+#: themes/default/views/oc-panel/sidebar.php:21
+#: themes/default/views/oc-panel/sidebar.php:42
+#: themes/default/views/oc-panel/pages/content/edit.php:8
+#: themes/default/views/oc-panel/pages/content/create.php:7
+#: themes/default/views/oc-panel/pages/content/list.php:7
+#: themes/default/views/pages/contact.php:16
+#: themes/default/views/pages/contact.php:18
+#: themes/default/views/pages/userprofile.php:44
+#: themes/default/views/pages/userprofile.php:46
+#: themes/default/views/pages/auth/forgot-form.php:5
+#: themes/default/views/pages/auth/forgot-form.php:7
+#: themes/default/views/pages/auth/register-social.php:14
+#: themes/default/views/pages/auth/register-social.php:16
+#: themes/default/views/pages/auth/login-form.php:5
+#: themes/default/views/pages/auth/login-form.php:7
+#: themes/default/views/pages/auth/register-form.php:13
+#: themes/default/views/pages/auth/register-form.php:15
+#: themes/default/views/pages/ad/new.php:152
+#: themes/default/views/pages/ad/new.php:154
+#: themes/default/views/pages/ad/single.php:111
+#: themes/default/views/pages/ad/single.php:113
+#: themes/anunciamex/views/pages/contact.php:16
+#: themes/anunciamex/views/pages/contact.php:18
+#: themes/anunciamex/views/pages/ad/new.php:152
+#: themes/anunciamex/views/pages/ad/new.php:154
+#: themes/anunciamex/views/pages/ad/single.php:102
+#: themes/anunciamex/views/pages/ad/single.php:104
+#: themes/bootplus/views/pages/ad/new.php:152
+#: themes/bootplus/views/pages/ad/new.php:154
+#: themes/bootplus/views/pages/ad/single.php:128
+#: themes/bootplus/views/pages/ad/single.php:130
+#: themes/kamaleon/views/pages/ad/new.php:152
+#: themes/kamaleon/views/pages/ad/new.php:154
+#: themes/kamaleon/views/pages/ad/single.php:123
+#: themes/kamaleon/views/pages/ad/single.php:125
+#: themes/reclassifieds/views/pages/ad/new.php:152
+#: themes/reclassifieds/views/pages/ad/new.php:154
+#: themes/reclassifieds/views/pages/ad/single.php:125
+#: themes/reclassifieds/views/pages/ad/single.php:127
+#: themes/olson/views/pages/contact.php:16
+#: themes/olson/views/pages/contact.php:18
+#: themes/olson/views/pages/auth/forgot-form.php:5
+#: themes/olson/views/pages/auth/forgot-form.php:7
+#: themes/olson/views/pages/auth/login-form.php:6
+#: themes/olson/views/pages/auth/login-form.php:8
+#: themes/olson/views/pages/auth/register-form.php:14
+#: themes/olson/views/pages/auth/register-form.php:16
+#: themes/olson/views/pages/ad/new.php:150
+#: themes/olson/views/pages/ad/new.php:152
+#: themes/olson/views/pages/ad/single.php:120
+#: themes/olson/views/pages/ad/single.php:122
+#: themes/moderndeluxe/views/pages/ad/new.php:152
+#: themes/moderndeluxe/views/pages/ad/new.php:154
+#: themes/moderndeluxe/views/pages/ad/single.php:124
+#: themes/moderndeluxe/views/pages/ad/single.php:126
+#: themes/mobile/views/pages/contact.php:17
+#: themes/mobile/views/pages/contact.php:19
+#: themes/mobile/views/pages/userprofile.php:10
+#: themes/mobile/views/pages/userprofile.php:34
+#: themes/mobile/views/pages/userprofile.php:36
+#: themes/mobile/views/pages/auth/forgot-form.php:5
+#: themes/mobile/views/pages/auth/forgot-form.php:7
+#: themes/mobile/views/pages/auth/login-form.php:5
+#: themes/mobile/views/pages/auth/login-form.php:7
+#: themes/mobile/views/pages/auth/register-form.php:13
+#: themes/mobile/views/pages/auth/register-form.php:15
+#: themes/mobile/views/pages/ad/new.php:104
+#: themes/mobile/views/pages/ad/new.php:106
+#: themes/mobile/views/pages/ad/single.php:77
+#: themes/mobile/views/pages/ad/single.php:79
+#: oc/modules/widgets/views/widget_contact.php:14
+#: oc/modules/widgets/views/widget_contact.php:16
+#: oc/modules/widgets/views/widget_subscribers.php:55
+#: oc/modules/widgets/views/widget_subscribers.php:57
+#: oc/modules/widgets/views/widget_subscribers.php:63
+#: oc/classes/model/user.php:97 oc/classes/controller/panel/content.php:13
+#: oc/classes/controller/panel/content.php:51
+#: oc/classes/controller/panel/content.php:98
+#: oc/classes/controller/panel/settings.php:72
+#: oc/classes/controller/panel/settings.php:73
+msgid "Email"
+msgstr "E-posta"
+
+#: themes/rtl/views/pages/ad/new.php:185
+#: themes/ocean/views/pages/ad/new.php:185
+#: themes/responsive/views/pages/ad/new.php:185
+#: themes/default/views/pages/ad/new.php:164
+#: themes/anunciamex/views/pages/ad/new.php:185
+#: themes/bootplus/views/pages/ad/new.php:185
+#: themes/kamaleon/views/pages/ad/new.php:185
+#: themes/reclassifieds/views/pages/ad/new.php:185
+#: themes/olson/views/pages/ad/new.php:183
+#: themes/moderndeluxe/views/pages/ad/new.php:185
+#: themes/mobile/views/pages/ad/new.php:137
+msgid "Terms of service"
+msgstr "Kullanım koşulları"
+
+#: themes/rtl/views/pages/ad/new.php:200
+#: themes/ocean/views/pages/ad/new.php:200
+#: themes/responsive/views/header.php:27
+#: themes/responsive/views/pages/ad/new.php:200
+#: themes/default/views/oc-panel/header.php:41
+#: themes/default/views/oc-panel/header.php:46
+#: themes/default/views/pages/ad/new.php:179
+#: themes/anunciamex/views/header.php:25
+#: themes/anunciamex/views/pages/ad/new.php:200
+#: themes/bootplus/views/pages/ad/new.php:200
+#: themes/kamaleon/views/header.php:16
+#: themes/kamaleon/views/pages/ad/new.php:200
+#: themes/reclassifieds/views/header.php:25
+#: themes/reclassifieds/views/pages/ad/new.php:200
+#: themes/olson/views/pages/ad/new.php:199
+#: themes/moderndeluxe/views/pages/ad/new.php:200
+#: themes/mobile/views/pages/ad/new.php:152
+msgid "Publish new"
+msgstr "Yeni paylaş"
+
+#: themes/rtl/views/pages/ad/new.php:201
+#: themes/ocean/views/pages/ad/new.php:201
+#: themes/responsive/views/pages/ad/new.php:201
+#: themes/default/views/pages/ad/new.php:180
+#: themes/anunciamex/views/pages/ad/new.php:201
+#: themes/bootplus/views/pages/ad/new.php:201
+#: themes/kamaleon/views/pages/ad/new.php:201
+#: themes/reclassifieds/views/pages/ad/new.php:201
+#: themes/olson/views/pages/ad/new.php:201
+#: themes/moderndeluxe/views/pages/ad/new.php:201
+msgid "User account will be created"
+msgstr "Kullanıcı hesabı oluşturulacak"
+
+#: themes/rtl/views/pages/ad/advanced_search.php:4
+#: themes/ocean/views/pages/ad/advanced_search.php:4
+#: themes/responsive/views/pages/ad/advanced_search.php:4
+#: themes/default/views/pages/ad/advanced_search.php:4
+#: themes/anunciamex/views/pages/ad/advanced_search.php:4
+#: themes/bootplus/views/pages/ad/advanced_search.php:4
+#: themes/kamaleon/views/pages/ad/advanced_search.php:4
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:4
+#: themes/olson/views/pages/ad/advanced_search.php:4
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:4
+#: themes/mobile/views/pages/ad/advansed_search.php:4
+#: themes/mobile/views/pages/ad/advanced_search.php:4
+#: oc/classes/controller/ad.php:497 oc/classes/controller/ad.php:498
+#: oc/classes/controller/ad.php:640
+msgid "Advanced Search"
+msgstr "Detaylı Arama"
+
+#: themes/rtl/views/pages/ad/advanced_search.php:10
+#: themes/ocean/views/pages/ad/advanced_search.php:10
+#: themes/responsive/views/pages/ad/advanced_search.php:10
+#: themes/default/views/pages/ad/advanced_search.php:11
+#: themes/anunciamex/views/pages/ad/advanced_search.php:10
+#: themes/bootplus/views/pages/ad/advanced_search.php:10
+#: themes/kamaleon/views/pages/ad/advanced_search.php:10
+#: themes/reclassifieds/views/pages/ad/advanced_search.php:10
+#: themes/olson/views/pages/ad/advanced_search.php:9
+#: themes/moderndeluxe/views/pages/ad/advanced_search.php:10
+#: themes/mobile/views/pages/ad/advanced_search.php:10
+msgid "Advertisement Title"
+msgstr "İlan Başlığı"
+
+#: themes/rtl/views/pages/ad/single.php:24
+#: themes/ocean/views/pages/ad/single.php:24
+#: themes/responsive/views/pages/ad/single.php:25
+#: themes/default/views/oc-panel/profile/edit_ad.php:15
+#: themes/default/views/pages/ad/single.php:24
+#: themes/bootplus/views/pages/ad/single.php:24
+#: themes/kamaleon/views/pages/ad/single.php:25
+#: themes/reclassifieds/views/pages/ad/single.php:25
+#: themes/olson/views/pages/ad/single.php:20
+#: themes/moderndeluxe/views/pages/ad/single.php:25
+msgid "Your Advertisement can go on top again! For only "
+msgstr ""
+"İlanınız en üstte gösterilmeye devam edecek! Ödemeniz gereken tutar sadece"
+
+#: themes/rtl/views/pages/ad/single.php:25
+#: themes/ocean/views/pages/ad/single.php:25
+#: themes/responsive/views/pages/ad/single.php:26
+#: themes/default/views/oc-panel/profile/edit_ad.php:16
+#: themes/default/views/pages/ad/single.php:25
+#: themes/bootplus/views/pages/ad/single.php:25
+#: themes/kamaleon/views/pages/ad/single.php:26
+#: themes/reclassifieds/views/pages/ad/single.php:26
+#: themes/olson/views/pages/ad/single.php:21
+#: themes/moderndeluxe/views/pages/ad/single.php:26
+msgid "Go Top!"
+msgstr "En Üste Taşı!"
+
+#: themes/rtl/views/pages/ad/single.php:28
+#: themes/ocean/views/pages/ad/single.php:28
+#: themes/responsive/views/pages/ad/single.php:29
+#: themes/default/views/oc-panel/profile/edit_ad.php:19
+#: themes/default/views/pages/ad/single.php:28
+#: themes/bootplus/views/pages/ad/single.php:28
+#: themes/kamaleon/views/pages/ad/single.php:29
+#: themes/reclassifieds/views/pages/ad/single.php:29
+#: themes/olson/views/pages/ad/single.php:24
+#: themes/moderndeluxe/views/pages/ad/single.php:29
+msgid "Your Advertisement can go to featured! For only "
+msgstr ""
+"İlanınız sponsor olarak gösterilmeye devam edecek! Ödemeniz gereken tutar "
+"sadece"
+
+#: themes/rtl/views/pages/ad/single.php:29
+#: themes/ocean/views/pages/ad/single.php:29
+#: themes/responsive/views/pages/ad/single.php:30
+#: themes/default/views/oc-panel/profile/edit_ad.php:20
+#: themes/default/views/pages/ad/single.php:29
+#: themes/bootplus/views/pages/ad/single.php:29
+#: themes/kamaleon/views/pages/ad/single.php:30
+#: themes/reclassifieds/views/pages/ad/single.php:30
+#: themes/olson/views/pages/ad/single.php:25
+#: themes/moderndeluxe/views/pages/ad/single.php:30
+msgid "Go Featured!"
+msgstr "Sponsor Yap!"
+
+#: themes/rtl/views/pages/ad/single.php:64
+#: themes/ocean/views/pages/ad/single.php:64
+#: themes/responsive/views/pages/ad/single.php:61
+#: themes/default/views/oc-panel/pages/moderate.php:18
+#: themes/default/views/oc-panel/pages/ad.php:59
+#: themes/default/views/pages/ad/single.php:64
+#: themes/anunciamex/views/pages/ad/single.php:39
+#: themes/bootplus/views/pages/ad/single.php:64
+#: themes/kamaleon/views/pages/ad/single.php:61
+#: themes/reclassifieds/views/pages/ad/single.php:61
+#: themes/olson/views/pages/ad/single.php:56
+#: themes/moderndeluxe/views/pages/ad/single.php:61
+#: themes/mobile/views/pages/ad/single.php:33
+msgid "Hits"
+msgstr "Tıklama"
+
+#: themes/rtl/views/pages/ad/single.php:99
+#: themes/ocean/views/pages/ad/single.php:99
+#: themes/responsive/views/pages/ad/single.php:96
+#: themes/default/views/oc-panel/pages/market/listing.php:43
+#: themes/default/views/pages/ad/single.php:78
+#: themes/anunciamex/views/pages/ad/single.php:73
+#: themes/bootplus/views/pages/ad/single.php:99
+#: themes/kamaleon/views/pages/ad/single.php:95
+#: themes/reclassifieds/views/pages/ad/single.php:96
+#: themes/olson/views/pages/ad/single.php:90
+#: themes/moderndeluxe/views/pages/ad/single.php:96
+msgid "Buy Now"
+msgstr "Hemen Al"
+
+#: themes/rtl/views/pages/ad/single.php:103
+#: themes/ocean/views/pages/ad/single.php:103
+#: themes/responsive/views/pages/ad/single.php:100
+#: themes/default/views/pages/userprofile.php:23
+#: themes/default/views/pages/userprofile.php:74
+#: themes/default/views/pages/ad/single.php:86
+#: themes/anunciamex/views/pages/ad/single.php:77
+#: themes/bootplus/views/pages/ad/single.php:103
+#: themes/kamaleon/views/pages/ad/single.php:99
+#: themes/reclassifieds/views/pages/ad/single.php:100
+#: themes/olson/views/pages/ad/single.php:94
+#: themes/moderndeluxe/views/pages/ad/single.php:100
+#: themes/mobile/views/pages/userprofile.php:15
+#: themes/mobile/views/pages/userprofile.php:21
+#: themes/mobile/views/pages/userprofile.php:64
+#: themes/mobile/views/pages/ad/single.php:58
+#: themes/mobile/views/pages/ad/single.php:64
+#: oc/modules/widgets/views/widget_contact.php:55
+msgid "Send Message"
+msgstr "Mesaj Gönder"
+
+#: themes/rtl/views/pages/ad/single.php:111
+#: themes/ocean/views/pages/ad/single.php:111
+#: themes/responsive/views/header.php:50
+#: themes/responsive/views/pages/ad/single.php:107
+#: themes/default/views/oc-panel/sidebar.php:91
+#: themes/default/views/pages/userprofile.php:27
+#: themes/default/views/pages/ad/single.php:94
+#: themes/anunciamex/views/header.php:53
+#: themes/anunciamex/views/pages/ad/single.php:85
+#: themes/bootplus/views/pages/ad/single.php:111
+#: themes/kamaleon/views/header.php:42
+#: themes/kamaleon/views/pages/ad/single.php:106
+#: themes/reclassifieds/views/header.php:53
+#: themes/reclassifieds/views/pages/ad/single.php:108
+#: themes/olson/views/header.php:78 themes/olson/views/pages/ad/single.php:105
+#: themes/moderndeluxe/views/header.php:47
+#: themes/moderndeluxe/views/pages/ad/single.php:107
+#: themes/mobile/views/pages/ad/single.php:107
+#: oc/modules/widgets/classes/widget/contact.php:18
+#: oc/modules/widgets/classes/widget/contact.php:24
+msgid "Contact"
+msgstr "İletişim"
+
+#: themes/rtl/views/pages/ad/single.php:135
+#: themes/rtl/views/pages/ad/single.php:137
+#: themes/ocean/views/pages/ad/single.php:135
+#: themes/ocean/views/pages/ad/single.php:137
+#: themes/responsive/views/pages/ad/single.php:131
+#: themes/responsive/views/pages/ad/single.php:133
+#: themes/default/views/oc-panel/pages/newsletter.php:31
+#: themes/default/views/pages/contact.php:23
+#: themes/default/views/pages/contact.php:25
+#: themes/default/views/pages/userprofile.php:51
+#: themes/default/views/pages/userprofile.php:53
+#: themes/default/views/pages/ad/single.php:118
+#: themes/default/views/pages/ad/single.php:120
+#: themes/anunciamex/views/pages/contact.php:23
+#: themes/anunciamex/views/pages/contact.php:25
+#: themes/anunciamex/views/pages/ad/single.php:109
+#: themes/anunciamex/views/pages/ad/single.php:111
+#: themes/bootplus/views/pages/ad/single.php:135
+#: themes/bootplus/views/pages/ad/single.php:137
+#: themes/kamaleon/views/pages/ad/single.php:130
+#: themes/kamaleon/views/pages/ad/single.php:132
+#: themes/reclassifieds/views/pages/ad/single.php:132
+#: themes/reclassifieds/views/pages/ad/single.php:134
+#: themes/olson/views/pages/contact.php:23
+#: themes/olson/views/pages/contact.php:25
+#: themes/olson/views/pages/ad/single.php:127
+#: themes/olson/views/pages/ad/single.php:129
+#: themes/moderndeluxe/views/pages/ad/single.php:131
+#: themes/moderndeluxe/views/pages/ad/single.php:133
+#: themes/mobile/views/pages/contact.php:24
+#: themes/mobile/views/pages/contact.php:26
+#: themes/mobile/views/pages/userprofile.php:41
+#: themes/mobile/views/pages/userprofile.php:43
+#: themes/mobile/views/pages/ad/single.php:84
+#: themes/mobile/views/pages/ad/single.php:86
+#: oc/modules/widgets/views/widget_contact.php:21
+#: oc/modules/widgets/views/widget_contact.php:23
+msgid "Subject"
+msgstr "Konu"
+
+#: themes/rtl/views/pages/ad/single.php:141
+#: themes/rtl/views/pages/ad/single.php:143
+#: themes/ocean/views/pages/ad/single.php:141
+#: themes/ocean/views/pages/ad/single.php:143
+#: themes/responsive/views/pages/ad/single.php:137
+#: themes/responsive/views/pages/ad/single.php:139
+#: themes/default/views/oc-panel/pages/newsletter.php:38
+#: themes/default/views/pages/contact.php:29
+#: themes/default/views/pages/contact.php:31
+#: themes/default/views/pages/userprofile.php:57
+#: themes/default/views/pages/userprofile.php:59
+#: themes/default/views/pages/ad/single.php:124
+#: themes/default/views/pages/ad/single.php:126
+#: themes/anunciamex/views/pages/contact.php:29
+#: themes/anunciamex/views/pages/contact.php:31
+#: themes/anunciamex/views/pages/ad/single.php:115
+#: themes/anunciamex/views/pages/ad/single.php:117
+#: themes/bootplus/views/pages/ad/single.php:141
+#: themes/bootplus/views/pages/ad/single.php:143
+#: themes/kamaleon/views/pages/ad/single.php:136
+#: themes/kamaleon/views/pages/ad/single.php:138
+#: themes/reclassifieds/views/pages/ad/single.php:138
+#: themes/reclassifieds/views/pages/ad/single.php:140
+#: themes/olson/views/pages/contact.php:29
+#: themes/olson/views/pages/contact.php:31
+#: themes/olson/views/pages/ad/single.php:133
+#: themes/olson/views/pages/ad/single.php:135
+#: themes/moderndeluxe/views/pages/ad/single.php:137
+#: themes/moderndeluxe/views/pages/ad/single.php:139
+#: themes/mobile/views/pages/contact.php:30
+#: themes/mobile/views/pages/contact.php:32
+#: themes/mobile/views/pages/userprofile.php:47
+#: themes/mobile/views/pages/userprofile.php:49
+#: themes/mobile/views/pages/ad/single.php:90
+#: themes/mobile/views/pages/ad/single.php:92
+#: oc/modules/widgets/views/widget_contact.php:27
+#: oc/modules/widgets/views/widget_contact.php:29
+msgid "Message"
+msgstr "Mesaj"
+
+#: themes/rtl/views/pages/ad/single.php:150
+#: themes/rtl/views/pages/ad/single.php:153
+#: themes/ocean/views/pages/ad/single.php:150
+#: themes/ocean/views/pages/ad/single.php:153
+#: themes/responsive/views/pages/ad/single.php:146
+#: themes/responsive/views/pages/ad/single.php:149
+#: themes/default/views/pages/ad/single.php:133
+#: themes/default/views/pages/ad/single.php:136
+#: themes/anunciamex/views/pages/ad/single.php:124
+#: themes/anunciamex/views/pages/ad/single.php:127
+#: themes/bootplus/views/pages/ad/single.php:150
+#: themes/bootplus/views/pages/ad/single.php:153
+#: themes/kamaleon/views/pages/ad/single.php:145
+#: themes/kamaleon/views/pages/ad/single.php:148
+#: themes/reclassifieds/views/pages/ad/single.php:147
+#: themes/reclassifieds/views/pages/ad/single.php:150
+#: themes/olson/views/pages/ad/single.php:142
+#: themes/olson/views/pages/ad/single.php:145
+#: themes/moderndeluxe/views/pages/ad/single.php:146
+#: themes/moderndeluxe/views/pages/ad/single.php:149
+#: oc/modules/widgets/views/widget_contact.php:36
+#: oc/modules/widgets/views/widget_contact.php:39
+msgid "File"
+msgstr "Dosya"
+
+#: themes/rtl/views/pages/ad/single.php:161
+#: themes/ocean/views/pages/ad/single.php:161
+#: themes/responsive/views/pages/ad/single.php:157
+#: themes/default/views/oc-panel/pages/fields/index.php:124
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:231
+#: themes/default/views/pages/contact.php:38
+#: themes/default/views/pages/userprofile.php:66
+#: themes/default/views/pages/ad/single.php:144
+#: themes/anunciamex/views/pages/contact.php:38
+#: themes/anunciamex/views/pages/ad/single.php:135
+#: themes/bootplus/views/pages/ad/single.php:161
+#: themes/kamaleon/views/pages/ad/single.php:156
+#: themes/reclassifieds/views/pages/ad/single.php:158
+#: themes/olson/views/pages/contact.php:38
+#: themes/olson/views/pages/ad/single.php:153
+#: themes/moderndeluxe/views/pages/ad/single.php:157
+#: themes/mobile/views/pages/contact.php:39
+#: themes/mobile/views/pages/userprofile.php:56
+#: themes/mobile/views/pages/ad/single.php:99
+#: oc/modules/widgets/views/widget_contact.php:47
+msgid "Captcha"
+msgstr "Resim Doğrulama"
+
+#: themes/rtl/views/pages/ad/single.php:169
+#: themes/ocean/views/pages/ad/single.php:169
+#: themes/responsive/views/pages/ad/single.php:165
+#: themes/default/views/pages/contact.php:5
+#: themes/default/views/pages/contact.php:46
+#: themes/default/views/pages/ad/single.php:152
+#: themes/anunciamex/views/pages/contact.php:5
+#: themes/anunciamex/views/pages/contact.php:46
+#: themes/anunciamex/views/pages/ad/single.php:143
+#: themes/bootplus/views/pages/ad/single.php:169
+#: themes/kamaleon/views/pages/ad/single.php:164
+#: themes/reclassifieds/views/pages/ad/single.php:166
+#: themes/olson/views/pages/contact.php:5
+#: themes/olson/views/pages/contact.php:47
+#: themes/olson/views/pages/ad/single.php:161
+#: themes/moderndeluxe/views/pages/ad/single.php:165
+#: themes/mobile/views/pages/contact.php:5 oc/classes/controller/contact.php:9
+#: oc/classes/controller/contact.php:10 oc/classes/controller/contact.php:13
+msgid "Contact Us"
+msgstr "İletişim"
+
+#: themes/rtl/views/pages/ad/single.php:188
+#: themes/ocean/views/pages/ad/single.php:188
+#: themes/default/views/pagination.php:65
+#: themes/default/views/pages/ad/single.php:171
+#: themes/bootplus/views/pages/ad/single.php:188
+#: themes/olson/views/pagination.php:64 themes/mobile/views/pagination.php:4
+#: oc/modules/pagination/views/pagination/basic.php:10
+#: oc/modules/pagination/views/pagination/basic.php:12
+#: oc/modules/pagination/views/pagination/floating.php:67
+#: oc/modules/pagination/views/pagination/floating.php:69
+msgid "Previous"
+msgstr "Önceki"
+
+#: themes/rtl/views/pages/ad/single.php:189
+#: themes/ocean/views/pages/ad/single.php:189
+#: themes/default/views/pagination.php:75
+#: themes/default/views/pages/ad/single.php:172
+#: themes/bootplus/views/pages/ad/single.php:189
+#: themes/olson/views/pagination.php:74 themes/mobile/views/pagination.php:9
+#: oc/modules/pagination/views/pagination/basic.php:26
+#: oc/modules/pagination/views/pagination/basic.php:28
+#: oc/modules/pagination/views/pagination/floating.php:83
+#: oc/modules/pagination/views/pagination/floating.php:85
+msgid "Next"
+msgstr "Sonraki"
+
+#: themes/rtl/views/pages/ad/single.php:190
+#: themes/ocean/views/pages/ad/single.php:190
+#: themes/default/views/pages/ad/single.php:173
+#: themes/bootplus/views/pages/ad/single.php:190
+msgid "Slideshow"
+msgstr "Slayt gösterisi"
+
+#: themes/rtl/views/pages/ad/single.php:191
+#: themes/ocean/views/pages/ad/single.php:191
+#: themes/default/views/pages/ad/single.php:174
+#: themes/bootplus/views/pages/ad/single.php:191
+msgid "Download"
+msgstr "İndir"
+
+#: themes/rtl/options.php:15 themes/ocean/options.php:15
+#: themes/responsive/options.php:25 themes/anunciamex/options.php:15
+#: themes/bootplus/options.php:15 themes/kamaleon/options.php:36
+#: themes/reclassifieds/options.php:15 themes/olson/options.php:15
+#: themes/moderndeluxe/options.php:15
+msgid "Change the admin color theme"
+msgstr "Yönetici tema rengini değiştir"
+
+#: themes/rtl/options.php:28 themes/ocean/options.php:37
+#: themes/responsive/options.php:38 themes/bootplus/options.php:28
+#: themes/kamaleon/options.php:49 themes/olson/options.php:32
+msgid "Header tool bar gets fixed in the top"
+msgstr "Header araç çubuğu en üste sabitlenir"
+
+#: themes/rtl/options.php:29 themes/rtl/options.php:38
+#: themes/rtl/options.php:71 themes/ocean/options.php:29
+#: themes/ocean/options.php:38 themes/ocean/options.php:71
+#: themes/responsive/options.php:39 themes/responsive/options.php:48
+#: themes/responsive/options.php:81 themes/anunciamex/options.php:28
+#: themes/anunciamex/options.php:61 themes/bootplus/options.php:29
+#: themes/bootplus/options.php:38 themes/bootplus/options.php:71
+#: themes/kamaleon/options.php:50 themes/kamaleon/options.php:59
+#: themes/kamaleon/options.php:92 themes/reclassifieds/options.php:28
+#: themes/reclassifieds/options.php:61 themes/olson/options.php:24
+#: themes/olson/options.php:33 themes/moderndeluxe/options.php:28
+#: themes/moderndeluxe/options.php:61
+msgid "Yes"
+msgstr "Evet"
+
+#: themes/rtl/options.php:30 themes/rtl/options.php:39
+#: themes/rtl/options.php:72 themes/ocean/options.php:30
+#: themes/ocean/options.php:39 themes/ocean/options.php:72
+#: themes/responsive/options.php:40 themes/responsive/options.php:49
+#: themes/responsive/options.php:82 themes/default/views/alert_terms.php:13
+#: themes/anunciamex/options.php:29 themes/anunciamex/options.php:62
+#: themes/bootplus/options.php:30 themes/bootplus/options.php:39
+#: themes/bootplus/options.php:72 themes/kamaleon/options.php:51
+#: themes/kamaleon/options.php:60 themes/kamaleon/options.php:93
+#: themes/reclassifieds/options.php:29 themes/reclassifieds/options.php:62
+#: themes/olson/options.php:25 themes/olson/options.php:34
+#: themes/moderndeluxe/options.php:29 themes/moderndeluxe/options.php:62
+msgid "No"
+msgstr "Hayır"
+
+#: themes/rtl/options.php:37 themes/ocean/options.php:28
+#: themes/responsive/options.php:47 themes/anunciamex/options.php:27
+#: themes/bootplus/options.php:37 themes/kamaleon/options.php:58
+#: themes/reclassifieds/options.php:27 themes/olson/options.php:23
+#: themes/moderndeluxe/options.php:27
+msgid "Display breadcrumb"
+msgstr "Kırıntıyı göster"
+
+#: themes/rtl/options.php:46 themes/ocean/options.php:46
+#: themes/responsive/options.php:56 themes/anunciamex/options.php:36
+#: themes/bootplus/options.php:46 themes/kamaleon/options.php:67
+#: themes/reclassifieds/options.php:36 themes/olson/options.php:41
+#: themes/moderndeluxe/options.php:36 themes/mobile/options.php:68
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr ""
+"Logonuza link verin. Önerilen boyut 250pk x 40 pk. Bir değer girmemek için "
+"boş bırakın."
+
+#: themes/rtl/options.php:50 themes/ocean/options.php:50
+#: themes/responsive/options.php:60 themes/anunciamex/options.php:40
+#: themes/bootplus/options.php:50 themes/kamaleon/options.php:71
+#: themes/reclassifieds/options.php:40 themes/olson/options.php:45
+#: themes/moderndeluxe/options.php:40
+msgid "Short description that appears after the site name."
+msgstr "Site adından sonra gösterilecek kısa açıklama."
+
+#: themes/rtl/options.php:55 themes/ocean/options.php:55
+#: themes/responsive/options.php:65 themes/anunciamex/options.php:45
+#: themes/bootplus/options.php:55 themes/kamaleon/options.php:76
+#: themes/reclassifieds/options.php:45 themes/olson/options.php:50
+#: themes/moderndeluxe/options.php:45 themes/mobile/options.php:74
+msgid "Numbers of ads to display in home slider"
+msgstr "Ana sayfa slayt bölümünde gösterilecek ilan sayısı"
+
+#: themes/rtl/options.php:61 themes/ocean/options.php:61
+#: themes/responsive/options.php:71 themes/anunciamex/options.php:51
+#: themes/bootplus/options.php:61 themes/kamaleon/options.php:82
+#: themes/reclassifieds/options.php:51 themes/olson/options.php:56
+#: themes/moderndeluxe/options.php:51
+msgid "Where you want the sidebar to appear"
+msgstr "Kenar içeriğinin nerede gösterilmesini istiyorsunuz"
+
+#: themes/rtl/options.php:62 themes/ocean/options.php:62
+#: themes/responsive/options.php:72 themes/anunciamex/options.php:52
+#: themes/bootplus/options.php:62 themes/kamaleon/options.php:83
+#: themes/reclassifieds/options.php:52 themes/olson/options.php:57
+#: themes/moderndeluxe/options.php:52
+msgid "Right side"
+msgstr "Sağ taraf"
+
+#: themes/rtl/options.php:63 themes/ocean/options.php:63
+#: themes/responsive/options.php:73 themes/anunciamex/options.php:53
+#: themes/bootplus/options.php:63 themes/kamaleon/options.php:84
+#: themes/reclassifieds/options.php:53 themes/olson/options.php:58
+#: themes/moderndeluxe/options.php:53
+msgid "Left side"
+msgstr "Sol taraf"
+
+#: themes/rtl/options.php:70 themes/ocean/options.php:70
+#: themes/responsive/options.php:80 themes/anunciamex/options.php:60
+#: themes/bootplus/options.php:70 themes/kamaleon/options.php:91
+#: themes/reclassifieds/options.php:60 themes/moderndeluxe/options.php:60
+msgid "Display slider in listing"
+msgstr "İlanda slayt göster"
+
+#: themes/rtl/options.php:79 themes/ocean/options.php:79
+#: themes/responsive/options.php:89 themes/anunciamex/options.php:69
+#: themes/bootplus/options.php:79 themes/kamaleon/options.php:100
+#: themes/reclassifieds/options.php:69 themes/olson/options.php:65
+#: themes/moderndeluxe/options.php:69 themes/mobile/options.php:79
+msgid "Header banner, allows HTML"
+msgstr "Üst banner, HTML girilebilir"
+
+#: themes/rtl/options.php:83 themes/ocean/options.php:83
+#: themes/responsive/options.php:93 themes/anunciamex/options.php:73
+#: themes/bootplus/options.php:83 themes/kamaleon/options.php:104
+#: themes/reclassifieds/options.php:73 themes/olson/options.php:69
+#: themes/moderndeluxe/options.php:73 themes/mobile/options.php:83
+msgid "Footer banner, allows HTML"
+msgstr "Alt banner, HTML girilebilir"
+
+#: themes/rtl/options.php:87 themes/ocean/options.php:87
+#: themes/responsive/options.php:97 themes/anunciamex/options.php:77
+#: themes/bootplus/options.php:87 themes/kamaleon/options.php:108
+#: themes/reclassifieds/options.php:77 themes/olson/options.php:73
+#: themes/moderndeluxe/options.php:77 themes/mobile/options.php:87
+msgid "Listing random position banner, allows HTML"
+msgstr "Rastgele ilan banner, HTML girilebilir"
+
+#: themes/responsive/views/header.php:48 themes/anunciamex/views/header.php:51
+#: themes/reclassifieds/views/header.php:51 themes/olson/views/header.php:76
+#: oc/modules/widgets/classes/widget/map.php:18
+#: oc/classes/controller/map.php:11
+msgid "Map"
+msgstr "Harita"
+
+#: themes/responsive/options.php:15 themes/kamaleon/options.php:15
+msgid "Change the color scheme and style of the theme"
+msgstr "Temanın renk şemasını ve sitilini değiştirin"
+
+#: themes/default/views/paypal.php:7
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Lütfen bekleyin, Paypal sitesine aktarılıyorsunuz"
+
+#: themes/default/views/paypal.php:27
+msgid "Click here if you are not redirected"
+msgstr "Yönlendirme gerçekleşmediyse lütfen buraya tıklayın"
+
+#: themes/default/views/pagination.php:61 themes/olson/views/pagination.php:60
+#: oc/modules/pagination/views/pagination/basic.php:4
+#: oc/modules/pagination/views/pagination/basic.php:6
+#: oc/modules/pagination/views/pagination/floating.php:61
+#: oc/modules/pagination/views/pagination/floating.php:63
+msgid "First"
+msgstr "İlk"
+
+#: themes/default/views/pagination.php:70
+#: themes/default/views/oc-panel/header.php:38
+#: themes/default/views/oc-panel/sidebar.php:20
+#: themes/default/views/oc-panel/pages/content/edit.php:6
+#: themes/default/views/oc-panel/pages/content/create.php:5
+#: themes/default/views/oc-panel/pages/content/list.php:5
+#: themes/olson/views/pagination.php:69
+#: oc/classes/controller/panel/content.php:13
+#: oc/classes/controller/panel/content.php:51
+#: oc/classes/controller/panel/content.php:98
+msgid "Page"
+msgstr "Sayfa"
+
+#: themes/default/views/pagination.php:79 themes/olson/views/pagination.php:78
+#: oc/modules/pagination/views/pagination/basic.php:32
+#: oc/modules/pagination/views/pagination/basic.php:34
+#: oc/modules/pagination/views/pagination/floating.php:89
+#: oc/modules/pagination/views/pagination/floating.php:91
+msgid "Last"
+msgstr "Son"
+
+#: themes/default/views/alert_terms.php:14
+msgid "I accept"
+msgstr "Kabul ediyorum"
+
+#: themes/default/views/oc-panel/profile/edit.php:5
+msgid "Edit Profile"
+msgstr "Profili Düzenle"
+
+#: themes/default/views/oc-panel/profile/edit.php:24
+#: themes/default/views/oc-panel/profile/edit.php:57
+#: themes/default/views/oc-panel/profile/edit.php:77
+#: themes/default/views/oc-panel/pages/fields/update.php:58
+#: themes/default/views/oc-panel/pages/newsletter.php:47
+#: themes/default/views/pages/auth/forgot-form.php:15
+#: themes/olson/views/pages/auth/forgot-form.php:17
+#: themes/mobile/views/pages/auth/forgot-form.php:15
+msgid "Send"
+msgstr "Gönder"
+
+#: themes/default/views/oc-panel/profile/edit.php:32
+#: oc/classes/controller/panel/profile.php:19
+#: oc/classes/controller/panel/profile.php:21
+msgid "Change password"
+msgstr "Şifreyi değiştir"
+
+#: themes/default/views/oc-panel/profile/edit.php:39
+#: themes/default/views/pages/auth/register-form.php:20
+#: themes/olson/views/pages/auth/register-form.php:21
+#: themes/mobile/views/pages/auth/register-form.php:20
+msgid "New password"
+msgstr "Yeni şifre"
+
+#: themes/default/views/oc-panel/profile/edit.php:41
+#: themes/default/views/oc-panel/profile/edit.php:48
+#: themes/default/views/oc-panel/pages/tools/migration.php:27
+#: themes/default/views/pages/auth/login-form.php:12
+#: themes/default/views/pages/auth/login-form.php:14
+#: themes/default/views/pages/auth/register-form.php:22
+#: themes/default/views/pages/auth/register-form.php:29
+#: themes/olson/views/pages/auth/login-form.php:13
+#: themes/olson/views/pages/auth/login-form.php:15
+#: themes/olson/views/pages/auth/register-form.php:23
+#: themes/olson/views/pages/auth/register-form.php:30
+#: themes/mobile/views/pages/auth/login-form.php:12
+#: themes/mobile/views/pages/auth/login-form.php:14
+#: themes/mobile/views/pages/auth/register-form.php:22
+#: themes/mobile/views/pages/auth/register-form.php:29 install/index.php:283
+#: oc/classes/model/user.php:98
+msgid "Password"
+msgstr "Şifre"
+
+#: themes/default/views/oc-panel/profile/edit.php:46
+#: themes/default/views/pages/auth/register-form.php:27
+#: themes/olson/views/pages/auth/register-form.php:28
+#: themes/mobile/views/pages/auth/register-form.php:27
+msgid "Repeat password"
+msgstr "Şifre tekrarı"
+
+#: themes/default/views/oc-panel/profile/edit.php:50
+msgid "Type your password twice to change"
+msgstr "Şifrenizi değiştirmek için iki kez girin"
+
+#: themes/default/views/oc-panel/profile/edit.php:56
+#: themes/default/views/oc-panel/profile/edit.php:76
+#: themes/default/views/oc-panel/pages/fields/new.php:66
+#: themes/default/views/oc-panel/pages/fields/update.php:57
+#: themes/default/views/oc-panel/pages/newsletter.php:46
+#: themes/default/views/oc-panel/pages/tools/migration.php:57
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:38
+msgid "Cancel"
+msgstr "İptal"
+
+#: themes/default/views/oc-panel/profile/edit.php:65
+#: themes/default/views/oc-panel/profile/edit.php:71
+msgid "Profile picture"
+msgstr "Profil resmi"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:10
+msgid "Min Price"
+msgstr "Min Fiyat"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:11
+msgid "Max Price"
+msgstr "Mak Fiyat"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:12
+#: themes/default/views/pages/userprofile.php:19
+#: themes/mobile/views/pages/userprofile.php:11 oc/classes/model/user.php:102
+#: oc/classes/model/ad.php:98 oc/classes/model/category.php:76
+msgid "Created"
+msgstr "Oluşturulma"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:16
+msgid "Unsubscribe to all?"
+msgstr "Tüm abonelikleri iptal et?"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:17
+msgid "Unsubscribe to all"
+msgstr "Tüm abonelikleri iptal et"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:51
+msgid "Unsubscribe?"
+msgstr "Abonelik iptali?"
+
+#: themes/default/views/oc-panel/profile/subscriptions.php:52
+#: oc/modules/widgets/views/widget_subscribers.php:86
+msgid "Unsubscribe"
+msgstr "Abonelik iptali"
+
+#: themes/default/views/oc-panel/profile/ads.php:4
+#: themes/default/views/oc-panel/sidebar.php:77
+#: themes/default/views/oc-panel/widget_login.php:15
+#: themes/default/views/widget_login.php:16 themes/olson/views/menu.php:9
+msgid "My Advertisements"
+msgstr "İlanlarım"
+
+#: themes/default/views/oc-panel/profile/ads.php:8
+msgid " New"
+msgstr "Yeni"
+
+#: themes/default/views/oc-panel/profile/ads.php:16
+#: themes/default/views/oc-panel/pages/moderate.php:19
+#: themes/default/views/oc-panel/pages/content/edit.php:33
+#: themes/default/views/oc-panel/pages/content/create.php:46
+#: themes/default/views/oc-panel/pages/ad.php:60 oc/classes/model/user.php:99
+#: oc/classes/model/ad.php:100
+msgid "Status"
+msgstr "Durum"
+
+#: themes/default/views/oc-panel/profile/ads.php:17
+#: themes/default/views/oc-panel/pages/moderate.php:20
+#: themes/default/views/oc-panel/pages/fields/new.php:32
+#: themes/default/views/oc-panel/pages/ad.php:61
+msgid "Date"
+msgstr "Tarih"
+
+#: themes/default/views/oc-panel/profile/ads.php:47
+#: themes/default/views/oc-panel/pages/moderate.php:83
+#: themes/default/views/oc-panel/pages/ad.php:147
+msgid "Not published"
+msgstr "Yayınlanmamış"
+
+#: themes/default/views/oc-panel/profile/ads.php:49
+#: themes/default/views/oc-panel/pages/moderate.php:85
+#: themes/default/views/oc-panel/pages/ad.php:149
+#: themes/mobile/views/pages/ad/single.php:31 oc/classes/model/ad.php:99
+msgid "Published"
+msgstr "Yayınlanmış"
+
+#: themes/default/views/oc-panel/profile/ads.php:53
+#: themes/default/views/oc-panel/pages/moderate.php:89
+#: themes/default/views/oc-panel/pages/ad.php:7
+#: themes/default/views/oc-panel/pages/ad.php:153
+msgid "Unavailable"
+msgstr "Mevcut olmayan"
+
+#: themes/default/views/oc-panel/profile/ads.php:55
+#: themes/default/views/oc-panel/pages/ad.php:10
+#: themes/default/views/oc-panel/pages/ad.php:155
+msgid "Unconfirmed"
+msgstr "Onaylanmamış"
+
+#: themes/default/views/oc-panel/profile/ads.php:62
+#: themes/default/views/oc-panel/crud/update.php:3
+#: themes/default/views/oc-panel/pages/themes/options.php:30
+#: themes/default/views/oc-panel/pages/moderate.php:95
+#: themes/default/views/oc-panel/pages/ad.php:162
+#: oc/classes/controller/panel/update.php:38 oc/classes/auth/crud.php:170
+msgid "Update"
+msgstr "Güncelle"
+
+#: themes/default/views/oc-panel/profile/ads.php:68
+#: themes/default/views/oc-panel/pages/moderate.php:38
+#: themes/default/views/oc-panel/pages/moderate.php:114
+#: themes/default/views/oc-panel/pages/ad.php:84
+#: themes/default/views/oc-panel/pages/ad.php:185
+msgid "Activate?"
+msgstr "Aktive et?"
+
+#: themes/default/views/oc-panel/profile/ads.php:69
+#: themes/default/views/oc-panel/pages/themes/theme.php:71
+#: themes/default/views/oc-panel/pages/themes/theme.php:112
+#: themes/default/views/oc-panel/pages/moderate.php:39
+#: themes/default/views/oc-panel/pages/moderate.php:115
+#: themes/default/views/oc-panel/pages/translations/index.php:33
+#: themes/default/views/oc-panel/pages/translations/index.php:34
+#: themes/default/views/oc-panel/pages/ad.php:85
+#: themes/default/views/oc-panel/pages/ad.php:186
+msgid "Activate"
+msgstr "Aktive et"
+
+#: themes/default/views/oc-panel/profile/ads.php:83
+#: themes/default/views/oc-panel/pages/ad.php:215
+msgid "Refresh listing, go to top?"
+msgstr "İlanı yenile, en üste git?"
+
+#: themes/default/views/oc-panel/profile/ads.php:84
+#: themes/default/views/oc-panel/pages/ad.php:216
+msgid "Go to top"
+msgstr "En üste git"
+
+#: themes/default/views/oc-panel/profile/ads.php:84
+#: themes/default/views/oc-panel/pages/ad.php:216
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "İlanı yenilemek ve en üste gitmek istiyor musunuz?"
+
+#: themes/default/views/oc-panel/profile/ads.php:92
+#: themes/default/views/oc-panel/pages/ad.php:201
+msgid "Make featured?"
+msgstr "Sponsor yap?"
+
+#: themes/default/views/oc-panel/profile/ads.php:93
+#: themes/default/views/oc-panel/pages/ad.php:98
+#: themes/default/views/oc-panel/pages/ad.php:99
+#: themes/default/views/oc-panel/pages/ad.php:202
+msgid "Are you sure you want to make it featured?"
+msgstr "Bunu sponsor yapmak istiyor musunuz?"
+
+#: themes/default/views/oc-panel/profile/ads.php:99
+#: themes/default/views/oc-panel/pages/ad.php:208
+msgid "Deactivate featured?"
+msgstr "Sponsoru pasif et?"
+
+#: themes/default/views/oc-panel/profile/ads.php:100
+msgid "Deactivate featured"
+msgstr "Sponsoru pasif et?"
+
+#: themes/default/views/oc-panel/profile/ads.php:100
+#: themes/default/views/oc-panel/pages/ad.php:209
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Sponsor ilanı pasif etmek istiyor musunuz?"
+
+#: themes/default/views/oc-panel/profile/stats.php:2
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: themes/default/views/oc-panel/profile/stats.php:13
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:14
+msgid "Today"
+msgstr "Bugün"
+
+#: themes/default/views/oc-panel/profile/stats.php:14
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:15
+msgid "Yesterday"
+msgstr "Dün"
+
+#: themes/default/views/oc-panel/profile/stats.php:15
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:16
+msgid "Last 30 days"
+msgstr "Son 30 gün"
+
+#: themes/default/views/oc-panel/profile/stats.php:16
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:17
+msgid "Total"
+msgstr "Toplam"
+
+#: themes/default/views/oc-panel/profile/stats.php:21
+msgid "Contacts"
+msgstr "İletiler"
+
+#: themes/default/views/oc-panel/profile/stats.php:28
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:29
+msgid "Visits"
+msgstr "Ziyaretler"
+
+#: themes/default/views/oc-panel/profile/stats.php:38
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:46
+msgid "Charts"
+msgstr "Grafikler"
+
+#: themes/default/views/oc-panel/profile/stats.php:42
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:50
+#: themes/default/views/oc-panel/pages/newsletter.php:17
+msgid "From"
+msgstr "Başlangıç"
+
+#: themes/default/views/oc-panel/profile/stats.php:46
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:54
+msgid "To"
+msgstr "Bitiş"
+
+#: themes/default/views/oc-panel/profile/stats.php:51
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:59
+msgid "Filter"
+msgstr "Filtrele"
+
+#: themes/default/views/oc-panel/profile/stats.php:62
+msgid "Views and Contacts statistic"
+msgstr "Gösterim ve İleti istatistiği"
+
+#: themes/default/views/oc-panel/profile/edit_ad.php:5
+msgid "Edit Advertisement"
+msgstr "İlanı Düzenle"
+
+#: themes/default/views/oc-panel/profile/edit_ad.php:33
+msgid "Id_User"
+msgstr "Id_Kullanıcı"
+
+#: themes/default/views/oc-panel/profile/edit_ad.php:34
+#: themes/default/views/oc-panel/sidebar.php:75
+#: themes/mobile/views/header.php:19
+msgid "Profile"
+msgstr "Profil"
+
+#: themes/default/views/oc-panel/profile/edit_ad.php:173
+msgid "Delete image"
+msgstr "Resmi sil"
+
+#: themes/default/views/oc-panel/header.php:14
+#: themes/default/views/oc-panel/widget_login.php:12
+#: themes/default/views/widget_login.php:13 themes/olson/views/menu.php:6
+#: oc/classes/auth/controller.php:33 oc/classes/auth/controller.php:77
+msgid "Panel"
+msgstr "Panel"
+
+#: themes/default/views/oc-panel/header.php:22
+#: themes/default/views/oc-panel/sidebar.php:6
+#: themes/default/views/oc-panel/pages/market/index.php:4
+#: oc/classes/controller/panel/market.php:15
+#: oc/classes/controller/panel/market.php:16
+msgid "Market"
+msgstr "Market"
+
+#: themes/default/views/oc-panel/header.php:26
+#: themes/default/views/oc-panel/sidebar.php:11
+#: themes/default/views/oc-panel/pages/moderate.php:5
+#: themes/default/views/oc-panel/pages/settings/general.php:93
+#: oc/classes/controller/panel/ad.php:106
+#: oc/classes/controller/panel/ad.php:107
+msgid "Moderation"
+msgstr "Düzenleme"
+
+#: themes/default/views/oc-panel/header.php:28
+#: themes/default/views/oc-panel/sidebar.php:78
+#: oc/modules/widgets/classes/widget/stats.php:18
+#: oc/modules/widgets/classes/widget/stats.php:24
+#: oc/classes/controller/panel/profile.php:621
+#: oc/classes/controller/panel/profile.php:627
+#: oc/classes/controller/panel/stats.php:16
+#: oc/classes/controller/panel/stats.php:22
+msgid "Stats"
+msgstr "İstatistikler"
+
+#: themes/default/views/oc-panel/header.php:29
+#: themes/default/views/oc-panel/sidebar.php:30
+#: oc/classes/controller/panel/widget.php:18
+#: oc/classes/controller/panel/widget.php:20
+msgid "Widgets"
+msgstr "Eklentiler"
+
+#: themes/default/views/oc-panel/header.php:30
+#: themes/default/views/oc-panel/sidebar.php:67
+#: themes/default/views/oc-panel/pages/tools/cache.php:4
+#: oc/classes/controller/panel/tools.php:81
+#: oc/classes/controller/panel/tools.php:83
+msgid "Cache"
+msgstr "Önbellek"
+
+#: themes/default/views/oc-panel/header.php:33
+#: themes/default/views/oc-panel/crud/index.php:10
+#: themes/default/views/oc-panel/crud/create.php:3
+#: themes/default/views/oc-panel/pages/index.php:7
+#: themes/default/views/oc-panel/pages/content/list.php:13
+#: oc/classes/controller/panel/fields.php:33 oc/classes/auth/crud.php:140
+msgid "New"
+msgstr "Yeni"
+
+#: themes/default/views/oc-panel/header.php:35
+msgid "Bog post"
+msgstr "Blog iletisi"
+
+#: themes/default/views/oc-panel/home-user.php:5
+#: themes/default/views/oc-panel/home.php:3
+#: oc/classes/controller/panel/home.php:13
+msgid "Welcome"
+msgstr "Hoşgeldin"
+
+#: themes/default/views/oc-panel/home-user.php:10
+msgid "Thanks for using our website."
+msgstr "Websitemizi kullandığınız için teşekkürler."
+
+#: themes/default/views/oc-panel/sidebar.php:7
+#: themes/default/views/oc-panel/pages/ad.php:16
+#: oc/classes/controller/panel/ad.php:11 oc/classes/controller/panel/ad.php:12
+msgid "Advertisements"
+msgstr "İlanlar"
+
+#: themes/default/views/oc-panel/sidebar.php:14
+#: themes/default/views/oc-panel/pages/locations.php:4
+#: oc/modules/widgets/classes/widget/locations.php:18
+#: oc/modules/widgets/classes/widget/locations.php:25
+#: oc/modules/widgets/classes/widget/locations.php:29
+#: oc/modules/widgets/classes/widget/subscribers.php:32
+#: oc/classes/controller/panel/location.php:26
+#: oc/classes/controller/panel/location.php:28
+msgid "Locations"
+msgstr "Konumlar"
+
+#: themes/default/views/oc-panel/sidebar.php:15
+msgid "Orders"
+msgstr "Siparişler"
+
+#: themes/default/views/oc-panel/sidebar.php:22
+#: themes/default/views/oc-panel/pages/translations/edit.php:2
+#: themes/default/views/oc-panel/pages/translations/index.php:4
+#: oc/classes/controller/panel/translations.php:13
+#: oc/classes/controller/panel/translations.php:22
+msgid "Translations"
+msgstr "Çeviriler"
+
+#: themes/default/views/oc-panel/sidebar.php:23
+msgid "Newsletters"
+msgstr "Abonelikler"
+
+#: themes/default/views/oc-panel/sidebar.php:27
+#: themes/default/views/oc-panel/pages/themes/theme.php:5
+#: oc/classes/controller/panel/theme.php:14
+#: oc/classes/controller/panel/theme.php:80
+#: oc/classes/controller/panel/theme.php:81
+msgid "Themes"
+msgstr "Temalar"
+
+#: themes/default/views/oc-panel/sidebar.php:29
+#: themes/default/views/oc-panel/pages/themes/options.php:5
+#: themes/default/views/oc-panel/pages/themes/theme.php:30
+#: oc/classes/controller/panel/theme.php:43
+#: oc/classes/controller/panel/theme.php:44
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: themes/default/views/oc-panel/sidebar.php:31
+#: themes/mobile/views/header.php:6 oc/classes/controller/panel/menu.php:16
+#: oc/classes/controller/panel/menu.php:18
+msgid "Menu"
+msgstr "Menü"
+
+#: themes/default/views/oc-panel/sidebar.php:32
+#: themes/default/views/oc-panel/pages/fields/index.php:4
+#: oc/classes/controller/panel/fields.php:10
+#: oc/classes/controller/panel/fields.php:18
+msgid "Custom Fields"
+msgstr "Özel Alanlar"
+
+#: themes/default/views/oc-panel/sidebar.php:33
+#: oc/classes/controller/panel/social.php:10
+#: oc/classes/controller/panel/social.php:17
+msgid "Social Auth"
+msgstr "Sosyal Giriş"
+
+#: themes/default/views/oc-panel/sidebar.php:38
+#: oc/classes/controller/panel/settings.php:14
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: themes/default/views/oc-panel/sidebar.php:40
+#: oc/classes/controller/panel/settings.php:113
+#: oc/classes/controller/panel/settings.php:114
+msgid "General"
+msgstr "Genel"
+
+#: themes/default/views/oc-panel/sidebar.php:41
+msgid "Payment"
+msgstr "Ödeme"
+
+#: themes/default/views/oc-panel/sidebar.php:43
+#: themes/mobile/views/pages/ad/advansed_search.php:10
+#: oc/classes/controller/panel/settings.php:30
+#: oc/classes/controller/panel/settings.php:31
+msgid "Advertisement"
+msgstr "İlan"
+
+#: themes/default/views/oc-panel/sidebar.php:50
+#: themes/default/views/oc-panel/sidebar.php:52
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: themes/default/views/oc-panel/sidebar.php:53
+msgid "User Roles"
+msgstr "Kullanıcı Rolleri"
+
+#: themes/default/views/oc-panel/sidebar.php:54
+msgid "Roles access"
+msgstr "Rol izinleri"
+
+#: themes/default/views/oc-panel/sidebar.php:61
+#: oc/classes/controller/panel/tools.php:16
+msgid "Tools"
+msgstr "Araçlar"
+
+#: themes/default/views/oc-panel/sidebar.php:63
+#: oc/classes/controller/panel/update.php:31
+#: oc/classes/controller/panel/update.php:32
+msgid "Updates"
+msgstr "Güncellemeler"
+
+#: themes/default/views/oc-panel/sidebar.php:64
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:5
+#: oc/classes/controller/panel/tools.php:153
+#: oc/classes/controller/panel/tools.php:155
+msgid "Sitemap"
+msgstr "Site haritası"
+
+#: themes/default/views/oc-panel/sidebar.php:65
+#: themes/default/views/oc-panel/pages/tools/migration.php:5
+#: oc/classes/controller/panel/tools.php:205
+msgid "Migration"
+msgstr "Taşıma"
+
+#: themes/default/views/oc-panel/sidebar.php:66
+#: themes/default/views/oc-panel/pages/tools/optimize.php:7
+msgid "Optimize"
+msgstr "Optimize et"
+
+#: themes/default/views/oc-panel/sidebar.php:68
+msgid "Logs"
+msgstr "Kayıtlar"
+
+#: themes/default/views/oc-panel/sidebar.php:69
+#: oc/classes/controller/panel/tools.php:111
+#: oc/classes/controller/panel/tools.php:113
+msgid "PHP Info"
+msgstr "PHP Bilgisi"
+
+#: themes/default/views/oc-panel/sidebar.php:76
+#: themes/default/views/oc-panel/widget_login.php:18
+#: themes/default/views/widget_login.php:19 themes/olson/views/menu.php:12
+#: oc/classes/controller/panel/profile.php:129
+msgid "Edit profile"
+msgstr "Profili düzenle"
+
+#: themes/default/views/oc-panel/sidebar.php:79
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: themes/default/views/oc-panel/sidebar.php:82
+#: themes/default/views/oc-panel/widget_login.php:21
+#: themes/default/views/widget_login.php:22 themes/olson/views/menu.php:15
+msgid "Public profile"
+msgstr "Açık profil"
+
+#: themes/default/views/oc-panel/sidebar.php:90
+#: themes/default/views/oc-panel/pages/menu.php:103
+#: themes/anunciamex/views/header.php:44 themes/kamaleon/views/header.php:33
+#: themes/reclassifieds/views/header.php:44
+#: themes/moderndeluxe/views/header.php:38 themes/mobile/views/header.php:12
+#: oc/modules/widgets/views/widget_locations.php:11
+#: oc/modules/widgets/views/widget_categories.php:11
+#: oc/classes/controller/panel/profile.php:9
+#: oc/classes/controller/panel/profile.php:11
+#: oc/classes/controller/panel/profile.php:368
+#: oc/classes/controller/page.php:20 oc/classes/controller/user.php:12
+#: oc/classes/controller/contact.php:12 oc/classes/controller/ad.php:13
+#: oc/classes/controller/ad.php:198 oc/classes/controller/ad.php:505
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: themes/default/views/oc-panel/crud/index.php:5
+msgid "Automatic emails sent to users"
+msgstr "Otomatik e-postalar kullanıcılara gönderildi"
+
+#: themes/default/views/oc-panel/crud/index.php:22
+#: themes/default/views/oc-panel/pages/index.php:19
+msgid "Actions"
+msgstr "Eylemler"
+
+#: themes/default/views/oc-panel/crud/index.php:40
+#: themes/default/views/oc-panel/pages/index.php:46
+#: themes/default/views/oc-panel/pages/moderate.php:45
+#: themes/default/views/oc-panel/pages/moderate.php:121
+#: themes/default/views/oc-panel/pages/ad.php:92
+#: themes/default/views/oc-panel/pages/ad.php:194
+msgid "Are you sure you want to delete?"
+msgstr "Silmek istiyor musunuz?"
+
+#: themes/default/views/oc-panel/widget_login.php:26
+#: themes/default/views/widget_login.php:27 themes/olson/views/menu.php:20
+#: themes/mobile/views/header.php:20
+msgid "Logout"
+msgstr "Çıkış"
+
+#: themes/default/views/oc-panel/widget_login.php:31
+#: themes/default/views/widget_login.php:33 themes/olson/views/menu.php:26
+msgid "Visit Site"
+msgstr "Siteye Git"
+
+#: themes/default/views/oc-panel/pages/themes/license.php:5
+#: oc/classes/controller/panel/theme.php:160
+#: oc/classes/controller/panel/theme.php:161
+msgid "Theme License"
+msgstr "Tema Lisansı"
+
+#: themes/default/views/oc-panel/pages/themes/license.php:6
+msgid "Please insert here the license for your theme."
+msgstr "Lütfen tema lisansını buraya girin."
+
+#: themes/default/views/oc-panel/pages/themes/license.php:14
+#: themes/default/views/oc-panel/pages/themes/license.php:16
+msgid "License"
+msgstr "Lisans"
+
+#: themes/default/views/oc-panel/pages/themes/license.php:20
+msgid "Check"
+msgstr "Kontrol Et"
+
+#: themes/default/views/oc-panel/pages/themes/options.php:6
+msgid ""
+"Here are listed specific theme configuration values. Replace input fields "
+"with new desired values for the theme."
+msgstr ""
+"Bu bölümde bazı özel tema ayar değerlerine ulaşabilirsiniz. Temadaki giriş "
+"alanlarını tanımladığınız yeni değerlerle değiştirin."
+
+#: themes/default/views/oc-panel/pages/themes/options.php:9
+#: themes/default/views/oc-panel/pages/themes/theme.php:38
+msgid "Using mobile theme"
+msgstr "Mobil tema kullanımı"
+
+#: themes/default/views/oc-panel/pages/themes/options.php:10
+#: themes/default/views/oc-panel/pages/themes/theme.php:39
+msgid "Disable"
+msgstr "Kapat"
+
+#: themes/default/views/oc-panel/pages/themes/options.php:14
+#: themes/default/views/oc-panel/pages/themes/theme.php:43
+msgid "Options"
+msgstr "Seçenekler"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:6
+msgid "You can change the look and feel of your website here."
+msgstr "Burada websitenizin görünümünü değiştirebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:11
+msgid "Install theme"
+msgstr "Tema yükle"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:11
+msgid "To install new theme choose zip file."
+msgstr "Yeni teme yüklemek için zip dosyasını seçin."
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:17
+#: oc/modules/formmanager/classes/formmanager/core/formmanager.php:420
+msgid "Submit"
+msgstr "Gönder"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:28
+msgid "Current Theme"
+msgstr "Kullanılan Tema"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:52
+msgid "Available Themes"
+msgstr "Mevcut Temalar"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:73
+#: themes/default/views/oc-panel/pages/themes/theme.php:113
+#: themes/default/views/oc-panel/pages/market/listing.php:48
+msgid "Preview"
+msgstr "Önizle"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:93
+msgid "Available Mobile Themes"
+msgstr "Mevcut Mobil temalar"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:126
+msgid "Themes Market"
+msgstr "Tema Marketi"
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:127
+msgid "Here you can find a selection of our premium themes."
+msgstr "Burada paralı temalarımızı görebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:128
+msgid "All themes include support, updates and 1 site license."
+msgstr "Tüm temalar destek, güncelleme ve 1 site lisansından oluşur."
+
+#: themes/default/views/oc-panel/pages/themes/theme.php:128
+msgid "Also white labeled and free of ads"
+msgstr "Ayrıca beyaz etiketli ve ücretsiz ilanlar"
+
+#: themes/default/views/oc-panel/pages/social_auth/index.php:3
+msgid "Social Authentication Settings"
+msgstr "Sosyal Giriş Ayarları"
+
+#: themes/default/views/oc-panel/pages/social_auth/index.php:9
+msgid "Debug Mode"
+msgstr "Hata Ayıklama Modu"
+
+#: themes/default/views/oc-panel/pages/social_auth/index.php:24
+#: oc/classes/model/category.php:73
+msgid "Id"
+msgstr "Id"
+
+#: themes/default/views/oc-panel/pages/social_auth/index.php:32
+msgid "Key"
+msgstr "Key"
+
+#: themes/default/views/oc-panel/pages/social_auth/index.php:40
+msgid "secret"
+msgstr "secret"
+
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:2
+msgid "Site Usage Statistics"
+msgstr "Site Kullanım İstatistikleri"
+
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:22
+#: oc/modules/widgets/classes/widget/ads.php:18
+msgid "Ads"
+msgstr "İlanlar"
+
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:36
+msgid "Sales"
+msgstr "Satışlar"
+
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:71
+msgid "Views and Ads statistics"
+msgstr "Gösterim ve İlan istatistikleri"
+
+#: themes/default/views/oc-panel/pages/stats/dashboard.php:77
+msgid "Sales statistics"
+msgstr "Satış istatistikleri"
+
+#: themes/default/views/oc-panel/pages/widgets/main.php:93
+msgid "Available widgets"
+msgstr "Mevcut eklentiler"
+
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:8
+#: themes/default/views/oc-panel/pages/fields/new.php:67
+#: themes/default/views/oc-panel/pages/content/create.php:5
+#: themes/default/views/oc-panel/pages/content/create.php:7
+#: themes/default/views/oc-panel/pages/content/create.php:54
+#: oc/classes/controller/panel/content.php:52
+msgid "Create"
+msgstr "Oluştur"
+
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:29
+msgid "Where do you want the widget displayed?"
+msgstr "Eklentinin nerede gösterilmesini istiyor sunuz?"
+
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:49
+msgid "Close"
+msgstr "Kapat"
+
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:52
+msgid ""
+"Sure you want to delete the widget? You can move it to the inactive "
+"placeholder"
+msgstr "Eklentiyi silmek istiyor musunuz? Pasif duruma getirebilirsiniz"
+
+#: themes/default/views/oc-panel/pages/widgets/form_widget.php:57
+msgid "Save changes"
+msgstr "Değişiklikleri kaydet"
+
+#: themes/default/views/oc-panel/pages/market/listing.php:32
+msgid "More info"
+msgstr "Daha fazla bilgi"
+
+#: themes/default/views/oc-panel/pages/market/listing.php:37
+msgid "Limited Offer!"
+msgstr "Sınırlı Teklif!"
+
+#: themes/default/views/oc-panel/pages/market/listing.php:38
+msgid "Valid Until"
+msgstr "Geçerlilik Tarihi"
+
+#: themes/default/views/oc-panel/pages/market/index.php:5
+msgid "Selection of nice extras for your installation."
+msgstr "Yüklemeniz için hoşunuza gidebilecek ekstra özellik seçimi."
+
+#: themes/default/views/oc-panel/pages/categories.php:5
+msgid ""
+"Change the order of your categories. Keep in mind that more than 2 levels "
+"nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr ""
+"Kategori sıralarını değiştirin. 2 seviyeden fazla yuvalama yapıldığında "
+"muhtemelen temada gösterilmeyecektir (ve önerilmez)."
+
+#: themes/default/views/oc-panel/pages/categories.php:7
+msgid "New category"
+msgstr "Yeni kategori"
+
+#: themes/default/views/oc-panel/pages/categories.php:15
+msgid ""
+"Are you sure you want to delete? We will move the siblings categories and "
+"ads to the parent of this category."
+msgstr ""
+"Bu silmek istiyor musunuz? Alt kategoriler ve bu kategorilerdeki ilanlar üst "
+"kategoriye taşınacak."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:8
+msgid "Heads Up!"
+msgstr "Başlar Yukarı!"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:9
+msgid "Custom fields are only available with premium themes!"
+msgstr "Özel alanlar sadece paralı temalarda mevcuttur!"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:9
+msgid "Upgrade your Open Classifieds site to activate this feature."
+msgstr "Bu özelliği aktive etmek için ilan sitenizi şimdi yükseltin."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:10
+msgid "Browse Themes"
+msgstr "Temaları Görüntüle"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:14
+msgid "AdvertisementS Custom Fields"
+msgstr "İlan Özel Alanları"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:16
+msgid "New field"
+msgstr "Yeni alan"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:27
+#: themes/default/views/oc-panel/pages/menu.php:16
+msgid ""
+"Are you sure you want to delete? All data contained in this field will be "
+"deleted."
+msgstr "Silmek istiyor musunuz? Bu alanla ilgili tüm veriler silinecek."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:48
+msgid "Optional Fields"
+msgstr "Özel Alanlar"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:49
+msgid "Optional Advertisement Fields"
+msgstr "Özel İlan Alanları"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:60
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:167
+msgid "Phone field"
+msgstr "Telefon alanı"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:64
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:171
+msgid "Displays the field Phone in the Ad form."
+msgstr "Telefon alanı ekleme formunda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:75
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:182
+msgid "Website field"
+msgstr "Website alanı"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:79
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:186
+msgid "Displays the field Website in the Ad form."
+msgstr "Website alanı ekleme formunda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:90
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:197
+msgid "Displays location select"
+msgstr "Konum seçimi gösterilir"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:94
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:201
+msgid "Displays the Select Location in the Ad form."
+msgstr "Konum seçimi ekleme formunda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:105
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:212
+msgid "Price field"
+msgstr "Fiyat alanı"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:109
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:216
+msgid "Displays the field Price in the Ad form."
+msgstr "Fiyat alnı ekleme formunda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:114
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:221
+msgid "Upload file"
+msgstr "Dosya yükle"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:130
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:237
+msgid "Enables Captcha"
+msgstr "Resüm Doğrulama Aktif"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:134
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:241
+msgid "Captcha appears in the form."
+msgstr "Resim doğrulama formda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/index.php:145
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:89
+msgid "Address field"
+msgstr "Adres alanı"
+
+#: themes/default/views/oc-panel/pages/fields/index.php:149
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:93
+msgid "Displays the field Address in the Ad form."
+msgstr "Adres alanı ekleme formunda gösterilir."
+
+#: themes/default/views/oc-panel/pages/fields/new.php:4
+msgid "New Custom Field"
+msgstr "Yeni Özel Alan"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:18
+#: themes/default/views/oc-panel/pages/fields/new.php:20
+#: themes/default/views/oc-panel/pages/fields/update.php:25
+#: themes/default/views/oc-panel/pages/fields/update.php:27
+msgid "Label"
+msgstr "Etiket"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:25
+#: themes/default/views/oc-panel/pages/fields/update.php:18
+#: themes/default/views/oc-panel/pages/fields/update.php:20
+#: themes/default/views/oc-panel/pages/content/create.php:42
+#: oc/classes/model/ad.php:90
+msgid "Type"
+msgstr "Tür"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:28
+msgid "Text 256 Chars"
+msgstr "Metin 256 Karakter"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:29
+msgid "Text Long"
+msgstr "Metin Uzun"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:30
+msgid "Number"
+msgstr "Sayı"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:31
+msgid "Number Decimal"
+msgstr "Sayı Ondalık"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:33
+msgid "Select"
+msgstr "Seçim"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:34
+msgid "Radio"
+msgstr "Tek Seçim"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:35
+msgid "Checkbox"
+msgstr "Kontrol Kutusu"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:41
+#: themes/default/views/oc-panel/pages/fields/update.php:32
+msgid "Values"
+msgstr "Değerler"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:43
+#: themes/default/views/oc-panel/pages/fields/update.php:34
+msgid "Comma separated for select"
+msgstr "Seçim için virgülle ayrılmış şekilde"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:51
+#: themes/default/views/oc-panel/pages/fields/update.php:42
+msgid "Required"
+msgstr "Gerekli"
+
+#: themes/default/views/oc-panel/pages/fields/new.php:60
+#: themes/default/views/oc-panel/pages/fields/update.php:51
+msgid "Searchable"
+msgstr "Aranabilir"
+
+#: themes/default/views/oc-panel/pages/fields/update.php:4
+msgid "Edit Custom Field"
+msgstr "Özel Alanı Düzenle"
+
+#: themes/default/views/oc-panel/pages/locations.php:5
+msgid ""
+"Change the order of your locations. Keep in mind that more than 2 levels "
+"nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr ""
+"Konumların sıralarını değiştirin. 2 seviyeden fazla yuvalama yapıldığında "
+"muhtemelen temada gösterilmeyecektir (ve önerilmez)."
+
+#: themes/default/views/oc-panel/pages/locations.php:7
+msgid "New location"
+msgstr "Yeni konum"
+
+#: themes/default/views/oc-panel/pages/locations.php:16
+msgid ""
+"Are you sure you want to delete? We will move the siblings locations and ads "
+"to the parent of this location."
+msgstr ""
+"Bu silmek istiyor musunuz? Alt konumlar ve bu konumlardaki ilanlar üst "
+"kategoriye taşınacak."
+
+#: themes/default/views/oc-panel/pages/newsletter.php:5
+#: oc/classes/controller/panel/newsletter.php:16
+#: oc/classes/controller/panel/newsletter.php:17
+msgid "Newsletter"
+msgstr "Bilgilendirme Bülteni"
+
+#: themes/default/views/oc-panel/pages/newsletter.php:8
+msgid "Email Settings"
+msgstr "E-posta Ayarları"
+
+#: themes/default/views/oc-panel/pages/newsletter.php:9
+msgid "You can send a mass email to all active users."
+msgstr "Tüm aktif kullanıcılara toplu mesaj gönderebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/newsletter.php:24
+msgid "From Email"
+msgstr "Gönderen E-postası"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:5
+msgid "Optimize Database"
+msgstr "Veritabanını Optimize Et"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:10
+msgid "Database space"
+msgstr "Veritabanı alanı"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:11
+msgid "Space to optimize"
+msgstr "Optimize edilecek alan"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:16
+msgid "Table"
+msgstr "Tablo"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:17
+msgid "Rows"
+msgstr "Satırlar"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:18
+msgid "Size"
+msgstr "Boyut"
+
+#: themes/default/views/oc-panel/pages/tools/optimize.php:19
+msgid "Save size"
+msgstr "Boyutu kaydet"
+
+#: themes/default/views/oc-panel/pages/tools/cache.php:5
+msgid "Cache configuration information"
+msgstr "Önbellek ayar bilgisi"
+
+#: themes/default/views/oc-panel/pages/tools/cache.php:7
+msgid "Delete all"
+msgstr "Tümünü sil"
+
+#: themes/default/views/oc-panel/pages/tools/cache.php:9
+msgid "Delete expired"
+msgstr "Günü geçmişleri sil"
+
+#: themes/default/views/oc-panel/pages/tools/cache.php:14
+msgid "Config file"
+msgstr "Config dosyası"
+
+#: themes/default/views/oc-panel/pages/tools/logs.php:4
+msgid "System Logs"
+msgstr "Sistem Kayıtları"
+
+#: themes/default/views/oc-panel/pages/tools/logs.php:5
+msgid "Reading log file"
+msgstr "Kayıt dosyası okunuyor"
+
+#: themes/default/views/oc-panel/pages/tools/logs.php:9
+msgid "Log"
+msgstr "Kayıt"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:6
+msgid "Your PHP time limit is"
+msgstr "PHP zaman sınırınız"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:6
+#: oc/classes/controller/panel/tools.php:278
+msgid "seconds"
+msgstr "saniye"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:13
+#: install/index.php:269
+msgid "Host name"
+msgstr "Host adı"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:20
+#: install/index.php:276
+msgid "User name"
+msgstr "Kullanıcı adı"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:34
+#: install/index.php:290 install/install.php:35
+msgid "Database name"
+msgstr "Veritabanı adı"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:41
+#: install/index.php:297
+msgid "Database charset"
+msgstr "Veritabanı karakter seti"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:48
+#: install/index.php:304
+msgid "Table prefix"
+msgstr "Tablo öneki"
+
+#: themes/default/views/oc-panel/pages/tools/migration.php:58
+msgid "Migrate"
+msgstr "Taşı"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:6
+msgid "Last time generated"
+msgstr "Oluşturulduğu son zaman"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:7
+msgid "Next sitemap"
+msgstr "Sonraki site haritası"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:9
+msgid "Generate"
+msgstr "Oluştur"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:17
+msgid "Expire time"
+msgstr "Sonlanma zamanı"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:24
+msgid "Update on publish"
+msgstr "Yayınlarken güncelle"
+
+#: themes/default/views/oc-panel/pages/tools/sitemap.php:39
+#: themes/default/views/oc-panel/pages/menu.php:177
+#: themes/default/views/oc-panel/pages/translations/edit.php:25
+#: themes/default/views/oc-panel/pages/translations/edit.php:58
+msgid "Save"
+msgstr "Kaydet"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:4
+msgid "Versions"
+msgstr "Sürümler"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:5
+msgid "Open Classifieds release history information."
+msgstr "Open Classifieds sürüm yayınlanma bilgisi."
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:6
+#: themes/default/views/oc-panel/home.php:5
+msgid "Your installation version is"
+msgstr "Yüklü sürümünüz"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:8
+msgid "Your Hash Key for this installation is"
+msgstr "Bu yükleme için Hash Key"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:12
+#: themes/default/views/oc-panel/home.php:7
+msgid "Check for updates"
+msgstr "Güncellemeleri kontrol et"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:18
+msgid "Version"
+msgstr "Sürüm"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:19
+msgid "Information"
+msgstr "Bilgi"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:25
+msgid "Latest"
+msgstr "Son"
+
+#: themes/default/views/oc-panel/pages/tools/versions.php:26
+msgid "Current"
+msgstr "Geçerli"
+
+#: themes/default/views/oc-panel/pages/content/edit.php:17
+msgid "title"
+msgstr "başlık"
+
+#: themes/default/views/oc-panel/pages/content/edit.php:21
+#: themes/default/views/oc-panel/pages/content/create.php:20
+#: themes/default/views/oc-panel/pages/content/list.php:17
+msgid "Locale"
+msgstr "Yerel"
+
+#: themes/default/views/oc-panel/pages/content/edit.php:23
+#: themes/default/views/oc-panel/pages/content/create.php:22
+#: themes/default/views/oc-panel/pages/content/list.php:30
+msgid "locale"
+msgstr "terel"
+
+#: themes/default/views/oc-panel/pages/content/edit.php:29
+#: themes/default/views/oc-panel/pages/content/create.php:28
+msgid "description"
+msgstr "açıklama"
+
+#: themes/default/views/oc-panel/pages/content/create.php:34
+msgid "From email"
+msgstr "Gönderen e-postası"
+
+#: themes/default/views/oc-panel/pages/content/create.php:36
+msgid "from_email"
+msgstr "gönderen_e-postası"
+
+#: themes/default/views/oc-panel/pages/content/list.php:31
+msgid "created"
+msgstr "oluşturulma"
+
+#: themes/default/views/oc-panel/pages/content/list.php:32
+msgid "seotitle"
+msgstr "seo başlığı"
+
+#: themes/default/views/oc-panel/pages/content/list.php:33
+msgid "status"
+msgstr "durum"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:6
+msgid "Email Configuration"
+msgstr "E-posta Ayarı"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:7
+msgid ""
+"List of general configuration values. Replace input fields with new desired "
+"values"
+msgstr ""
+"Genel ayar değerleri listesi. Giriş alanlarını tanımlanan ayarlarla "
+"değiştirin"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:8
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Yüksek teslim oranı kontrolüyle birçok, e-posta göndermek istiyorsanız"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:19
+msgid "Notify email"
+msgstr "Bilgilendirme e-postası"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:25
+msgid ""
+"Email from where we send the emails, also used for software communications."
+msgstr ""
+"E-postalarda yer alacak gönderen adresi, ayrıca yazılım iletişimlerinde de "
+"kullanılacaktır."
+
+#: themes/default/views/oc-panel/pages/settings/email.php:29
+msgid "Email From"
+msgstr "Gönderen E-postası"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:34
+msgid "Smtp active"
+msgstr "Smtp aktif"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:49
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:64
+msgid "Smtp host"
+msgstr "Smtp host"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:79
+msgid "Smtp port"
+msgstr "Smtp port"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:94
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:109
+msgid "Smtp user"
+msgstr "Smtp kullanıcı"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:124
+msgid "Smtp password"
+msgstr "Smtp şifresi"
+
+#: themes/default/views/oc-panel/pages/settings/email.php:140
+msgid "Notify me on new ad"
+msgstr "Yeni ilan gönderildiğinde bilgilendir"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:6
+msgid "Advertisement Configuration"
+msgstr "İlan Ayarları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:19
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:25
+msgid "Number of images"
+msgstr "Resim sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:29
+msgid "Number of images displayed"
+msgstr "Gösterilecek resim sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:34
+msgid "Parent category"
+msgstr "Üst kategori"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:40
+msgid "parent_category field"
+msgstr "üst_kategori alanı"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:44
+msgid "Use parent categories"
+msgstr "Üst kategorileri kullan"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:50
+msgid "Ad expiration date"
+msgstr "İlan sonlanma tarihi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:57
+msgid "Expire days"
+msgstr "Bitiş günü"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:61
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Kaç gün sonra ilan sonlanacak. Sürekli ilan için 0"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:63
+#: themes/default/views/oc-panel/pages/settings/payment.php:114
+msgid "Days"
+msgstr "Gün"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:68
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:78
+msgid "Advertisements in home"
+msgstr "Anasayfadaki ilanlar"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:70
+#: themes/default/views/oc-panel/pages/settings/payment.php:66
+#: themes/default/views/pages/home.php:6
+#: oc/modules/widgets/classes/widget/featured.php:18
+#: oc/modules/widgets/classes/widget/ads.php:26
+msgid "Featured Ads"
+msgstr "Sponsor İlanlar"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:70
+#: themes/default/views/pages/home.php:8
+#: oc/modules/widgets/classes/widget/ads.php:25
+msgid "Popular Ads last month"
+msgstr "Geçen ayın popüler ilanları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:74
+msgid "You can choose what ads you want to display in home."
+msgstr "Anasayfada hangi ilanların gösterileceğini seçebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:98
+msgid "Google Maps in Ad"
+msgstr "İlanda Google Haritası"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:108
+msgid "Displays the google maps in the Ad."
+msgstr "İlanda google haritası gösterilir."
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:113
+msgid "Google map zoom level"
+msgstr "Google harita zoom seviyesi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:119
+msgid "Zoom level"
+msgstr "Zoom seviyesi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:123
+msgid "Google map default zoom level "
+msgstr "Google harita geçerli zoom seviyesi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:129
+msgid "Map latitude coordinates"
+msgstr "Harita boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:135
+msgid "Latitude coordinates"
+msgstr "Boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:139
+msgid "Google map default latitude coordinates"
+msgstr "Google harita geçerli boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:145
+msgid "Map longitude coordinates"
+msgstr "Harita boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:151
+msgid "Longitude coordinates"
+msgstr "Boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:155
+msgid "Google map default longitude coordinates"
+msgstr "Google harita geçerli boylam koordinatları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:246
+#: oc/modules/widgets/classes/widget/contact.php:19
+msgid "Contact form"
+msgstr "İletişim formu"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:252
+msgid "Enables Contact Form"
+msgstr "İletişim Formu Aktif"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:256
+msgid "Contact form appears int he ad."
+msgstr "İlanda iletişim formu gösterilir."
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:260
+#: themes/default/views/oc-panel/pages/settings/general.php:388
+msgid "Deactivated"
+msgstr "Pasif edildi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:265
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:275
+msgid "Terms of Service"
+msgstr "Kullanım Koşulları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:280
+#: oc/modules/widgets/classes/widget/disqus.php:18
+msgid "Disqus"
+msgstr "Disqus"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:286
+msgid "Disqus Comments"
+msgstr "Disqus Yorumları"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:290
+#: themes/default/views/oc-panel/pages/settings/general.php:447
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Sevisi aktive edebilmek için disqus ID girmeniz gerekiyor."
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:295
+msgid "Baned Words"
+msgstr "Yasaklı Kelimeler"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:301
+msgid "Baned words are separated with coma (,)"
+msgstr "Virgülle (,) ayrılmış yasaklı kelimeler"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:305
+msgid "You need to write your baned words enable the service."
+msgstr "Servisi aktif edebilmek için kelimeleri girmeniz gerekiyor."
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:310
+msgid "Baned Words Replacement"
+msgstr "Yasaklı Kelime Değişimi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:316
+msgid "Replacement of a banedword"
+msgstr "Yasaklı kelime değişimi"
+
+#: themes/default/views/oc-panel/pages/settings/advertisement.php:320
+msgid ""
+"Baned word replacement replaces selected array with string that you provided."
+msgstr ""
+"Yasaklı kelime değişimi ile seçilen dizi sağladığınız dizi ile değiştirilir."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:6
+msgid "Payments Configuration"
+msgstr "Ödeme Ayarları"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:7
+msgid ""
+"List of payment configuration values. Replace input fields with new desired "
+"values."
+msgstr ""
+"Ödeme ayar değerleri listesi. Giriş alanlarını tanımlayacağınız değerlerle "
+"değiştirin."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:20
+msgid "Paypal account"
+msgstr "Paypal hesabı"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:26
+msgid "Paypal mail address"
+msgstr "Paypal e-posta hesabı"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:30
+msgid "The paypal email address where the payments will be sent"
+msgstr "Ödemelerin gönderileceği paypal e-posta hesabı"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:36
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:51
+msgid "Paypal currency"
+msgstr "Paypal para birimi"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:57
+msgid "Currency"
+msgstr "Para Birimi"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:61
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr ""
+"Lütfen girdiğiniz para biriminin paypal tarafından desteklendiğinden emin "
+"olun."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:72
+msgid "Featured ads"
+msgstr "Sponsor ilanlar"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:76
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr ""
+"Sponsor ilanlar belirlenen gün sayısı kadar kalın yazılı olarak listelenir."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:82
+msgid "Price for featuring the Ad"
+msgstr "Sponsor ilan için ücret"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:90
+#: themes/default/views/oc-panel/pages/settings/payment.php:141
+msgid "Pricing"
+msgstr "Ücretlendirme"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:94
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Sponsor ilan için kullanıcı ne kadar ücret ödemeli"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:101
+msgid "Days Featured"
+msgstr "Sponsorluk Gün Sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:108
+msgid "Featured length"
+msgstr "Sponsorluk süresi"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:112
+msgid "How many days an ad will be featured after paying."
+msgstr "Ödeme sonrası ilan kaç gün sponsor olarak listelenecek."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:119
+#: themes/default/views/oc-panel/pages/settings/payment.php:125
+msgid "Bring to top Ad"
+msgstr "İlanı en üste taşı"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:129
+msgid "Brings your Ad to the top of the listing."
+msgstr "İlanınızı en üste taşır."
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:134
+msgid "To top price"
+msgstr "En üste taşı ücreti"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:145
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "İlanı en üste taşımak için kullanıcının ödemesi gereken ücret"
+
+#: themes/default/views/oc-panel/pages/settings/payment.php:152
+msgid "User paypal link"
+msgstr "Kullanıcı paypal linki"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:6
+msgid "General Configuration"
+msgstr "Genel Ayarlar"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:8
+msgid "General site settings."
+msgstr "Genel site ayarları."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:9
+msgid "All configurations"
+msgstr "Tüm ayarlar."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:20
+#: themes/default/views/oc-panel/pages/settings/general.php:30
+msgid "Maintenance Mode"
+msgstr "Bakım Modu"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:26
+msgid "Enables the site to maintenance"
+msgstr "Siteyi bakım moduna alır"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:36
+#: themes/default/views/oc-panel/pages/settings/general.php:45
+msgid "Landing page"
+msgstr "Site ana sayfası"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:41
+msgid "It changes landing page of website"
+msgstr "Websitesi anasayfasını değiştirir"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:51
+msgid "Site name"
+msgstr "Site adı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:57
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr ""
+"Gösterilecek isminizi ayarlayabilirsiniz. Bu isim herkes tarafından "
+"görülebilir!"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:61
+#: install/index.php:210 install/index.php:212
+msgid "Site Name"
+msgstr "Site Adı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:67
+msgid "Site description"
+msgstr "Site açıklaması"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:78
+msgid "Base URL"
+msgstr "Temel URL"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:84
+msgid ""
+"Is a base path of your site (e.g. http://open-classifieds.com/). Everything "
+"else is built based on this field."
+msgstr ""
+"Sitenizin temel klasör yolu (ör. http://open-classifieds.com/). Diğer bütün "
+"herşey bu alan üzerine inşa edilecek."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:88
+msgid "Base URL path"
+msgstr "Temel URL yolu"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:103
+msgid "Moderation controls"
+msgstr "Düzenleme kontrolleri"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:109
+msgid "Advertisements per page"
+msgstr "Sayfa başına ilan sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:115
+msgid ""
+"This is to control how many advertisements are being displayed per page. "
+"Insert an integer value, as a number limit."
+msgstr ""
+"Sayfa başına gösterilecek ilan sayısı. Sayı limiti için tamsayı giriniz."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:119
+msgid "Number of ads per page"
+msgstr "Sayfa başına ilan sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:124
+msgid "Advertisements in RSS"
+msgstr "RSSde İlanlar"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:130
+#: themes/default/views/oc-panel/pages/settings/general.php:145
+msgid "Number of Ads"
+msgstr "İlan Sayısı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:134
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Sitenizin RSS bölümünde kaç ilan gösterilecek."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:139
+msgid "Advertisements in Map"
+msgstr "Haritada İlanlar"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:149
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Haritada kaç ilan gösterilecek."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:155
+msgid "Money format"
+msgstr "Para formatı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:161
+msgid ""
+"Number format is how you want to display numbers related to advertisements. "
+"More specific advertisement price. Every country have a specific way of "
+"dealing with decimal digits."
+msgstr ""
+"İlanlarda gösterilecek sayıların gösterim formatı. Daha özel biçimde ilan "
+"fiyatı. Her ülkenin ondalık sayıları gösterim biçimi farklı olabilmektedir."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:165
+msgid "Decimal representation"
+msgstr "Ondalık gösterimi"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:170
+#: themes/default/views/oc-panel/pages/settings/general.php:180
+msgid "Date format"
+msgstr "Tarih formatı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:176
+msgid ""
+"Each advertisement have a publish date. By selecting format, you can change "
+"how it is shown on your website."
+msgstr ""
+"Her ilanın bir yayınlanmaya başlama tarihi bulunmaktadır. Websitenizde "
+"gösterilecek olan formatı buradan seçebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:185
+#: themes/default/views/oc-panel/pages/settings/general.php:195
+msgid "Analytics"
+msgstr "Analitikler"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:200
+#: themes/default/views/oc-panel/pages/settings/general.php:211
+msgid "Allowed image formats"
+msgstr "Kabul edilen resim formatları"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:207
+msgid ""
+"Set this up to restrict image formats that are being uploaded to your server."
+msgstr ""
+"Sunucunuza yüklenecek resim formatlarını bu ayarla kısıtlayabilirsiniz."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:216
+msgid "Max image size"
+msgstr "Mak resim boyutu"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:223
+msgid ""
+"Control the size of images being uploaded. Enter an integer value to set "
+"maximum image size in mega bites(Mb)."
+msgstr ""
+"Yüklenecek resimlerin boyutunu kontrol edin. Resim boyutu sınırını mega bit "
+"olarak girin."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:227
+msgid "Image size in mega bites(Mb)"
+msgstr "Resim boyutu (mega bit)"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:234
+msgid "Image height"
+msgstr "Resim yüksekliği"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:241
+msgid ""
+"Each image is resized when uploaded. This is the height of big image. Note: "
+"you can leave this field blank to set AUTO height resize."
+msgstr ""
+"Her resim yüklendikten sonra yeniden boyutlandırılır. Bu değer büyük resmin "
+"yüksekliğini belirtir. Note: OTOMATİK yükseklik boyutu için bu alanı boş "
+"bırakabilirsiniz."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:245
+msgid "Image height in pixels(px)"
+msgstr "Resim yüksekliği (piksel)"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:252
+msgid "Image width"
+msgstr "Resim genişliği"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:259
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr ""
+"Her resim yüklendikten sonra yeniden boyutlandırılır. Bu büyük resim "
+"genişliğini göstermektedir."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:263
+msgid "Image width in pixels(px)"
+msgstr "Resim genişliği (piksel)"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:270
+msgid "Thumb height"
+msgstr "Küçük resim yüksekliği"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:277
+msgid ""
+"Thumb is a small image resized to fit certain elements. This is height of "
+"this image."
+msgstr ""
+"Küçük resim geçerli elemalarda kullanılacak boyutu küçültülmüş resimdir. Bu "
+"ayar küçük resmin yükseliğini kontrol eder."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:281
+msgid "Thumb height in pixels(px)"
+msgstr "Küçük resim yüksekliği (piksel)"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:288
+msgid "Thumb width"
+msgstr "Küçük resim genişliği"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:295
+msgid ""
+"Thumb is a small image resized to fit certain elements. This is width of "
+"this image."
+msgstr ""
+"Küçük resim geçerli elemalarda kullanılacak boyutu küçültülmüş resimdir. Bu "
+"ayar küçük resmin genişliğini kontrol eder."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:299
+msgid "Thumb width in pixels(px)"
+msgstr "Küçük resim genişiliği (piksel)"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:307
+msgid "Image quality"
+msgstr "Resim kalitesi"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:314
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr ""
+"Depolanacak resimlerin kalitesini seçin (orjinal resmin %1-100 değerinde)."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:318
+msgid "Image Quality"
+msgstr "Resim Kalitesi"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:327
+#: themes/default/views/oc-panel/pages/settings/general.php:337
+msgid "Watermark"
+msgstr "Filigran"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:333
+msgid "Appends watermark to images"
+msgstr "Resimlere filigran uygular"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:343
+#: themes/default/views/oc-panel/pages/settings/general.php:353
+msgid "Watermark path"
+msgstr "Filigran klasörü"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:358
+msgid "Watermark position"
+msgstr "Filigran pozisyonu"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:368
+msgid "Watermark possition"
+msgstr "Filigran pozisyonu"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:374
+#: themes/default/views/oc-panel/pages/settings/general.php:384
+msgid "Akismet Key"
+msgstr "Akismet Anahtarı"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:380
+msgid ""
+"Providing akismet key will activate this feature. This feature deals with "
+"spam posts and emails."
+msgstr ""
+"Akismet anahtarı girilidiğinde bu özellik aktif edilir. Bu özellik sayesinde "
+"spam ileti ve e-postalardan korunursunuz."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:393
+#: themes/default/views/oc-panel/pages/settings/general.php:402
+msgid "Accept Terms Alert"
+msgstr "Koşullar Uyarısını Kabul Et"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:407
+#: themes/default/views/oc-panel/pages/settings/general.php:417
+msgid "Include search by description"
+msgstr "Açıklamaya göre aramayı dahil et"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:413
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr ""
+"EVET olarak ayarlanırsa, açıklamalarda anahtar kelime aramasına izin verir"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:422
+#: themes/default/views/oc-panel/pages/settings/general.php:432
+msgid "Activates Blog posting"
+msgstr "Blog iletileri aktif edilir."
+
+#: themes/default/views/oc-panel/pages/settings/general.php:428
+msgid "Once set to TRUE, enables blog posts"
+msgstr "EVET olarak ayarlanırsa, blog iletileri açılır"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:437
+msgid "Disqus for blog"
+msgstr "Blog için Disqus"
+
+#: themes/default/views/oc-panel/pages/settings/general.php:443
+msgid "Disqus for Blog Comments"
+msgstr "Blog Yorumları için Disqus"
+
+#: themes/default/views/oc-panel/pages/menu.php:4
+msgid "Custom menu"
+msgstr "Özel menü"
+
+#: themes/default/views/oc-panel/pages/menu.php:33
+msgid "Menu type"
+msgstr "Menü türü"
+
+#: themes/default/views/oc-panel/pages/menu.php:39
+msgid "Custom"
+msgstr "Özel"
+
+#: themes/default/views/oc-panel/pages/menu.php:41
+msgid "Default"
+msgstr "Geçerli"
+
+#: themes/default/views/oc-panel/pages/menu.php:46
+msgid "Create Menu Item"
+msgstr "Menü Ögesi Oluştur"
+
+#: themes/default/views/oc-panel/pages/menu.php:95
+msgid "Default links"
+msgstr "Geçerli linkler"
+
+#: themes/default/views/oc-panel/pages/menu.php:109
+msgid "listing"
+msgstr "ilan"
+
+#: themes/default/views/oc-panel/pages/menu.php:121 oc/config/routes.php:37
+msgid "contact"
+msgstr "iletişim"
+
+#: themes/default/views/oc-panel/pages/menu.php:127
+msgid "rss"
+msgstr "rss"
+
+#: themes/default/views/oc-panel/pages/menu.php:133 oc/config/routes.php:45
+msgid "map"
+msgstr "harita"
+
+#: themes/default/views/oc-panel/pages/menu.php:150
+msgid "Url"
+msgstr "Url"
+
+#: themes/default/views/oc-panel/pages/menu.php:157
+#: oc/modules/widgets/classes/widget/links.php:33
+msgid "Target"
+msgstr "Hedef"
+
+#: themes/default/views/oc-panel/pages/menu.php:169
+msgid "Icon"
+msgstr "İkon"
+
+#: themes/default/views/oc-panel/pages/menu.php:171
+msgid "icon-envelope icon-white"
+msgstr "ikon-zarf icon-beyaz"
+
+#: themes/default/views/oc-panel/pages/translations/edit.php:3
+msgid "Here you can modify any text you find in your web."
+msgstr "Ağınızda bulabileceğiniz herhangi bir metini düzenleyebilirsiniz."
+
+#: themes/default/views/oc-panel/pages/translations/edit.php:11
+msgid "Original Translation"
+msgstr "Orjinal Çeviri"
+
+#: themes/default/views/oc-panel/pages/translations/edit.php:13
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Tümünü kopyala?, Dikkat bu bütün metinlerinizi değiştirecek."
+
+#: themes/default/views/oc-panel/pages/translations/edit.php:17
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Tümünü çevir?, Dikkat bu bütün metinlerinizi değiştirecek."
+
+#: themes/default/views/oc-panel/pages/translations/edit.php:22
+msgid "Translation"
+msgstr "Çeviri"
+
+#: themes/default/views/oc-panel/pages/translations/index.php:5
+msgid "Translations files available in the system."
+msgstr "Çeviri dosyaları sistemde mevcut."
+
+#: themes/default/views/oc-panel/pages/translations/index.php:8
+msgid "Scan"
+msgstr "Tara"
+
+#: themes/default/views/oc-panel/pages/translations/index.php:9
+msgid "New translation"
+msgstr "Yeni çeviri"
+
+#: themes/default/views/oc-panel/pages/translations/index.php:15
+msgid "Language"
+msgstr "Dil"
+
+#: themes/default/views/oc-panel/pages/translations/index.php:37
+msgid "Active"
+msgstr "Aktif"
+
+#: themes/default/views/oc-panel/pages/ad.php:24
+msgid "Spam Sort"
+msgstr "Spam Sıralaması"
+
+#: themes/default/views/oc-panel/pages/ad.php:27
+msgid "Unavailable Sort"
+msgstr "Mevcut Değil Sıralaması"
+
+#: themes/default/views/oc-panel/pages/ad.php:28
+msgid " Unavailable"
+msgstr "Mevcut Değil"
+
+#: themes/default/views/oc-panel/pages/ad.php:30
+msgid "Unconfirmed Sort"
+msgstr "Onaylanmamış Sıralaması"
+
+#: themes/default/views/oc-panel/pages/ad.php:31
+msgid " Unconfirmed"
+msgstr "Onaylanmamış"
+
+#: themes/default/views/oc-panel/pages/ad.php:35
+msgid "Delete All Unavailable?"
+msgstr "Tüm Mevcut Olmayanları Sil?"
+
+#: themes/default/views/oc-panel/pages/ad.php:35
+msgid "Delete All Unavailable"
+msgstr "Tüm Mevcut Olmayanları Sil"
+
+#: themes/default/views/oc-panel/pages/ad.php:36
+#: themes/default/views/oc-panel/pages/ad.php:40
+#: themes/default/views/oc-panel/pages/ad.php:44 oc/classes/auth/crud.php:151
+#: oc/classes/auth/crud.php:181
+msgid "Delete All"
+msgstr "Tümünü Sil"
+
+#: themes/default/views/oc-panel/pages/ad.php:39
+msgid "Delete All Unconfirmed?"
+msgstr "Tüm Onaylanmamışları Sil?"
+
+#: themes/default/views/oc-panel/pages/ad.php:39
+msgid "Delete All Unconfirmed"
+msgstr "Tüm Onaylanmamışları Sil"
+
+#: themes/default/views/oc-panel/pages/ad.php:43
+msgid "Delete All Spam?"
+msgstr "Tüm Spamları Sil?"
+
+#: themes/default/views/oc-panel/pages/ad.php:43
+msgid "Delete All Spam"
+msgstr "Tüm Spamları Sil?"
+
+#: themes/default/views/oc-panel/pages/ad.php:104
+msgid "Are you sure you want to make it to_top?"
+msgstr "Bunu en_üste taşımak istiyor musunuz?"
+
+#: themes/default/views/oc-panel/pages/ad.php:105
+msgid "to_top"
+msgstr "en_üste"
+
+#: themes/default/views/oc-panel/pages/ad.php:105
+msgid "Are you sure you want to make it to top?"
+msgstr "Bunu en üste taşımak istiyor musunuz?"
+
+#: themes/default/views/oc-panel/pages/ad.php:209
+msgid "Deactivate Featured"
+msgstr "Sponsorluğu Pasif Et"
+
+#: themes/default/views/oc-panel/home.php:4
+msgid "Thanks for using Open Classifieds."
+msgstr "Open Classifieds kullandığınız için teşekkürler."
+
+#: themes/default/views/oc-panel/home.php:17
+msgid "Latest News"
+msgstr "Son Haberler"
+
+#: themes/default/views/pages/blog/listing.php:30
+msgid "We do not have any blog post"
+msgstr "Bir blog iletisi bulunmuyor"
+
+#: themes/default/views/pages/error/503.php:7
+#: themes/default/views/pages/error/503.php:27
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Sitede çalışma var, lütfen daha sonra ziyaret ediniz. Teşekkürler"
+
+#: themes/default/views/pages/userprofile.php:4
+#: themes/mobile/views/pages/userprofile.php:4
+#: oc/classes/controller/user.php:13 oc/classes/controller/user.php:23
+msgid "User Profile"
+msgstr "Kullanıcı Profili"
+
+#: themes/default/views/pages/userprofile.php:10
+msgid "Profile Picture"
+msgstr "Profil Resmi"
+
+#: themes/default/views/pages/userprofile.php:20
+#: themes/mobile/views/pages/userprofile.php:12
+msgid "Last Login"
+msgstr "Son Giriş"
+
+#: themes/default/views/pages/userprofile.php:83
+msgid " advertisements"
+msgstr "ilanlar"
+
+#: themes/default/views/pages/auth/forgot.php:5
+#: themes/olson/views/pages/auth/forgort.php:3
+#: themes/mobile/views/pages/auth/forgot.php:5
+#: oc/classes/controller/panel/auth.php:60
+msgid "Remember password"
+msgstr "Şifremi hatırla"
+
+#: themes/default/views/pages/auth/login-form.php:17
+#: themes/olson/views/pages/auth/login-form.php:18
+#: themes/mobile/views/pages/auth/login-form.php:17
+msgid "Forgot password?"
+msgstr "Şifremi unuttum?"
+
+#: themes/default/views/pages/auth/login-form.php:21
+#: themes/olson/views/pages/auth/login-form.php:22
+#: themes/mobile/views/pages/auth/login-form.php:21
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: themes/default/views/pages/auth/social.php:3
+msgid "Social Login"
+msgstr "Sosyal Giriş"
+
+#: themes/default/views/pages/auth/register-form.php:31
+#: themes/olson/views/pages/auth/register-form.php:32
+#: themes/mobile/views/pages/auth/register-form.php:31
+msgid "Type your password twice"
+msgstr "Şifrenizi iki kez girin"
+
+#: themes/default/views/pages/ad/single.php:83
+msgid "Promote at Adserum"
+msgstr "Adserum da Duyur"
+
+#: themes/anunciamex/views/pages/ad/listing.php:101
+msgid "Offer"
+msgstr "Teklif"
+
+#: themes/olson/views/header.php:79
+#: oc/modules/widgets/classes/widget/rss.php:18
+msgid "RSS"
+msgstr "RSS"
+
+#: themes/olson/views/header.php:124
+msgid "Remember Password"
+msgstr "Şifreyi Hatırla"
+
+#: themes/mobile/views/pagination.php:6 oc/classes/controller/blog.php:43
+#: oc/classes/controller/ad.php:152 oc/classes/controller/ad.php:608
+msgid "Page "
+msgstr "Sayfa"
+
+#: themes/mobile/views/pagination.php:6
+msgid " of "
+msgstr "ile"
+
+#: themes/mobile/views/header.php:14
+msgid "Contact us"
+msgstr "İletişim"
+
+#: themes/mobile/views/header.php:15
+msgid "Advanced search"
+msgstr "Detaylı arama"
+
+#: themes/mobile/views/header.php:16
+msgid "Desktop Version"
+msgstr "Masaüstü Sürümü"
+
+#: themes/mobile/views/header.php:18
+msgid "Public Profile"
+msgstr "Açık Profil"
+
+#: themes/mobile/views/pages/userprofile.php:72
+msgid "advertisements"
+msgstr "ilanlar"
+
+#: themes/mobile/views/pages/userprofile.php:86
+msgid "Not yet published"
+msgstr "Henüz paylaşılmadı"
+
+#: themes/mobile/views/pages/ad/single.php:32
+msgid "Publisher"
+msgstr "Paylaşan"
+
+#: themes/mobile/views/pages/ad/single.php:35
+msgid "Phone Number"
+msgstr "Telefon Numarası"
+
+#: themes/mobile/options.php:16
+msgid "Change the main color scheme and style of the theme"
+msgstr "Temanın ana renk şeması ve sitilini değiştir"
+
+#: themes/mobile/options.php:32
+msgid "Change the header color scheme and style of the theme"
+msgstr "Temanın header renk şeması ve sitilini değiştir"
+
+#: themes/mobile/options.php:44
+msgid "Change the theme of List Elements"
+msgstr "Tema Listeleme Elemanları Değiştir"
+
+#: themes/mobile/options.php:56
+msgid "Change the theme of Featured Elements"
+msgstr "Tema Sponsor Elemanları Değiştir"
+
+#: install/index.php:25 install/index.php:77
+msgid "Installation"
+msgstr "Yükleme"
+
+#: install/index.php:97
+msgid "Requirements"
+msgstr "Gerekenler"
+
+#: install/index.php:146
+msgid "Congratulations"
+msgstr "Tebrikler"
+
+#: install/index.php:148
+msgid "Installation done"
+msgstr "Yükleme yapıldı"
+
+#: install/index.php:150
+msgid "Please now erase the folder"
+msgstr "Lütfen kalsörü silin"
+
+#: install/index.php:152
+msgid "Go to Your Website"
+msgstr "Websitenize Gidin"
+
+#: install/index.php:157
+msgid "Make a donation"
+msgstr "Bağış yap"
+
+#: install/index.php:158
+msgid "We really appreciate it"
+msgstr "Gerçekten takdir ediyoruz"
+
+#: install/index.php:166
+msgid "Welcome to"
+msgstr "Buraya Hoşgeldiniz"
+
+#: install/index.php:166
+msgid "installation"
+msgstr "yükleme"
+
+#: install/index.php:168
+msgid "Welcome to the super easy and fast installation"
+msgstr "Süper kolay ve çok hızlı yüklemeye hoşgeldiniz"
+
+#: install/index.php:170
+msgid "If you need any help please check our professional services"
+msgstr ""
+"Yardıma ihtiyacınız varsa lütfen profesyonel servisimizle iletişime geçin"
+
+#: install/index.php:181
+msgid "Site Configuration"
+msgstr "Site Ayarları"
+
+#: install/index.php:184
+msgid "Site Language"
+msgstr "Site Dili"
+
+#: install/index.php:203
+msgid "Site URL"
+msgstr "Site URLsi"
+
+#: install/index.php:217
+msgid "Time Zone"
+msgstr "Zaman Alanı"
+
+#: install/index.php:225
+msgid "New Install"
+msgstr "Yeni Yükleme"
+
+#: install/index.php:226
+msgid "Upgrade System"
+msgstr "Sistemi Yükselt"
+
+#: install/index.php:233
+msgid "Administrator email"
+msgstr "Yönetici e-postası"
+
+#: install/index.php:240
+msgid "Admin Password"
+msgstr "Yönetici Şifresi"
+
+#: install/index.php:247
+msgid "Sample data"
+msgstr "Örnek veri"
+
+#: install/index.php:248
+msgid "Creates few sample categories to start with"
+msgstr "Başlamak için birkaç örnek kategori oluşturur"
+
+#: install/index.php:255
+msgid "Hash Key"
+msgstr "Hash Anahtarı"
+
+#: install/index.php:258
+msgid ""
+"You need the Hash Key to re-install. You can find this value if you lost it "
+"at"
+msgstr ""
+"Yeniden yükleme için Hash Anahtarına ihtiyacınız var. Bu değeri "
+"kaybattiyseniz şurada bulabilirsiniz"
+
+#: install/index.php:266
+msgid "Database Configuration"
+msgstr "Veritabanı Ayarı"
+
+#: install/index.php:307
+msgid ""
+"Allows multiple installations in one database if you give each one a unique "
+"prefix"
+msgstr ""
+"Her birine farklı bir ön ek verdiyseniz birden fazla veritabanına yükleme "
+"desteklenir"
+
+#: install/index.php:307
+msgid "Only numbers, letters, and underscores"
+msgstr "Sadece rakamlar, harfler ve alt çizgi kullanılabilir"
+
+#: install/index.php:314
+msgid "Install"
+msgstr "Yükle"
+
+#: install/index.php:319
+msgid "Ocacu classifieds community registration"
+msgstr "Ocacu ilan birliği kaydı"
+
+#: install/index.php:320
+msgid "Terms"
+msgstr "Koşullar"
+
+#: install/install.php:24
+msgid "Cannot connect to server"
+msgstr "Sunucuya bağlanamadı"
+
+#: install/install.php:41
+msgid "No database name was given"
+msgstr "Veritabanı ismi verilmedi"
+
+#: install/install.php:41
+msgid "Available databases"
+msgstr "Mevcut veritabanları"
+
+#: install/install.php:46
+msgid "Invalid query"
+msgstr "Geçersiz sorgu"
+
+#: oc/ko322/views/profiler/stats.php:24 oc/views/profiler.php:24
+msgid "Benchmark"
+msgstr "Kriter"
+
+#: oc/ko322/views/profiler/stats.php:63 oc/views/profiler.php:63
+msgid "Application Execution"
+msgstr "Uygulama Çalıştırımı"
+
+#: oc/ko322/classes/kohana/i18n.php:10
+msgid "Hello, world"
+msgstr "Merhaba, dünya"
+
+#: oc/views/profiler.php:120
+msgid "Environment"
+msgstr "Ortam"
+
+#: oc/views/profiler.php:123
+msgid "Included files"
+msgstr "İçerilen dosyalar"
+
+#: oc/views/profiler.php:134
+msgid "Loaded extensions"
+msgstr "Yüklenen uzantılar"
+
+#: oc/config/routes.php:17 oc/config/routes.php:19
+msgid "publish new"
+msgstr "yeni paylaş"
+
+#: oc/config/routes.php:28
+msgid "search"
+msgstr "ara"
+
+#: oc/config/routes.php:52
+msgid "maintenance"
+msgstr "bakım"
+
+#: oc/modules/widgets/views/widget_stats.php:4
+msgid "views"
+msgstr "gösterim"
+
+#: oc/modules/widgets/views/widget_stats.php:5
+msgid "ads"
+msgstr "ilan"
+
+#: oc/modules/widgets/views/widget_stats.php:6
+msgid "users"
+msgstr "kullanıcı"
+
+#: oc/modules/widgets/views/widget_subscribers.php:82
+#: oc/modules/widgets/classes/widget/subscribers.php:18
+#: oc/modules/widgets/classes/widget/subscribers.php:51
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: oc/modules/widgets/classes/widget.php:30 oc/classes/theme.php:546
+msgid "# items to display"
+msgstr "# gösterilecek öge sayısı"
+
+#: oc/modules/widgets/classes/widget/rss.php:19
+msgid "RSS reader with cache"
+msgstr "Önbellekli RSS okuyucu"
+
+#: oc/modules/widgets/classes/widget/rss.php:23
+msgid "Number items to display"
+msgstr "Gösterilecek öge sayısı"
+
+#: oc/modules/widgets/classes/widget/rss.php:30
+msgid "How often we refresh the RSS, in seconds"
+msgstr "RSS saniye cinsinden ne kadar sürede yenilecek"
+
+#: oc/modules/widgets/classes/widget/rss.php:36
+msgid "RSS url address"
+msgstr "RSS url adresi"
+
+#: oc/modules/widgets/classes/widget/rss.php:42
+msgid "RSS title displayed"
+msgstr "RSS başlığı gösterildi."
+
+#: oc/modules/widgets/classes/widget/share.php:18
+#: oc/modules/widgets/classes/widget/share.php:24
+msgid "Share"
+msgstr "Paylaş"
+
+#: oc/modules/widgets/classes/widget/share.php:19
+msgid "Share on social networks."
+msgstr "Sosyal ağlarda paylaş."
+
+#: oc/modules/widgets/classes/widget/share.php:25
+#: oc/modules/widgets/classes/widget/disqus.php:25
+#: oc/modules/widgets/classes/widget/adserum.php:67
+#: oc/modules/widgets/classes/widget/stats.php:25
+#: oc/modules/widgets/classes/widget/contact.php:25
+msgid "Title displayed"
+msgstr "Başlık gösterildi"
+
+#: oc/modules/widgets/classes/widget/disqus.php:19
+msgid "Add latest comments"
+msgstr "Son yorumları ekle"
+
+#: oc/modules/widgets/classes/widget/disqus.php:24
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: oc/modules/widgets/classes/widget/disqus.php:29
+msgid "Number of comments to display"
+msgstr "Gösterilecek yorum sayısı"
+
+#: oc/modules/widgets/classes/widget/links.php:18
+#: oc/modules/widgets/classes/widget/links.php:19
+#: oc/modules/widgets/classes/widget/links.php:24
+msgid "Links"
+msgstr "Linkler"
+
+#: oc/modules/widgets/classes/widget/links.php:23
+msgid "Links title displayed"
+msgstr "Link başlıkları gösterildi"
+
+#: oc/modules/widgets/classes/widget/links.php:34
+msgid "New tab or window"
+msgstr "Yeni sekme veya pencere"
+
+#: oc/modules/widgets/classes/widget/links.php:35
+msgid "Parent frame"
+msgstr "Üst çerçeve"
+
+#: oc/modules/widgets/classes/widget/adserum.php:50
+msgid "Earn money from your site"
+msgstr "Sitenizden para kazanın"
+
+#: oc/modules/widgets/classes/widget/adserum.php:54
+msgid "Banner Format"
+msgstr "Banner Formatı"
+
+#: oc/modules/widgets/classes/widget/adserum.php:61
+msgid "Adserum publisher ID"
+msgstr "Adserum yayıncı ID"
+
+#: oc/modules/widgets/classes/widget/map.php:19
+msgid "Google Maps with ads"
+msgstr "İlanlar ile Google Haritalar"
+
+#: oc/modules/widgets/classes/widget/map.php:24
+msgid "Map title displayed"
+msgstr "Harita başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/map.php:28
+msgid "Map height in pixels"
+msgstr "Piksek cinsinden Harita yüksekliği"
+
+#: oc/modules/widgets/classes/widget/map.php:33
+msgid "Zoom in the map"
+msgstr "Haritadaki zoom"
+
+#: oc/modules/widgets/classes/widget/featured.php:19
+msgid "Display Featured Ads"
+msgstr "Sponsor İlanları Göster"
+
+#: oc/modules/widgets/classes/widget/featured.php:24
+msgid "Featured title displayed"
+msgstr "Sponsor başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/categories.php:19
+msgid "Display categories"
+msgstr "Kategorileri göster"
+
+#: oc/modules/widgets/classes/widget/categories.php:24
+msgid "Categories title displayed"
+msgstr "Kategori başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/locations.php:19
+msgid "Display Locations"
+msgstr "Konumları Göster"
+
+#: oc/modules/widgets/classes/widget/locations.php:24
+msgid "Locations title displayed"
+msgstr "Konum başlıkları gösterildi"
+
+#: oc/modules/widgets/classes/widget/locations.php:30
+#: oc/modules/widgets/classes/widget/subscribers.php:24
+#: oc/modules/widgets/classes/widget/subscribers.php:33
+#: oc/modules/widgets/classes/widget/subscribers.php:42
+msgid "FALSE"
+msgstr "HAYIR"
+
+#: oc/modules/widgets/classes/widget/locations.php:31
+#: oc/modules/widgets/classes/widget/subscribers.php:25
+#: oc/modules/widgets/classes/widget/subscribers.php:34
+#: oc/modules/widgets/classes/widget/subscribers.php:43
+msgid "TRUE"
+msgstr "EVET"
+
+#: oc/modules/widgets/classes/widget/text.php:18
+msgid "Text"
+msgstr "Metin"
+
+#: oc/modules/widgets/classes/widget/text.php:19
+msgid "HTML textarea"
+msgstr "HTML metin alanı"
+
+#: oc/modules/widgets/classes/widget/text.php:24
+msgid "Text title displayed"
+msgstr "Metin başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/text.php:29
+msgid "HTML/text content here"
+msgstr "HTML/metin içeriği buraya"
+
+#: oc/modules/widgets/classes/widget/ads.php:19
+msgid "Ads reader"
+msgstr "İlan okuyucu"
+
+#: oc/modules/widgets/classes/widget/ads.php:23
+msgid "Type ads to display"
+msgstr "Gösterilecek ilan türü"
+
+#: oc/modules/widgets/classes/widget/ads.php:33
+msgid "Number of ads to display"
+msgstr "Gösterilecek ilan sayısı"
+
+#: oc/modules/widgets/classes/widget/ads.php:40
+msgid "Ads title displayed"
+msgstr "İlan başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/pages.php:18
+#: oc/modules/widgets/classes/widget/pages.php:25
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: oc/modules/widgets/classes/widget/pages.php:19
+msgid "Display CMS pages"
+msgstr "İYS sayfalarını göster"
+
+#: oc/modules/widgets/classes/widget/pages.php:24
+msgid "Page title displayed"
+msgstr "Sayfa başlıkları gösterildi"
+
+#: oc/modules/widgets/classes/widget/stats.php:19
+msgid "Display site stats"
+msgstr "Site istatistiklerini göster"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:19
+msgid "Subscribe for categories"
+msgstr "Kategorilere abonelik"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:50
+msgid "Subscribe title displayed"
+msgstr "Abonelik başlığı gösterildi"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:56
+msgid "Minimum Price"
+msgstr "Minimum Fiyat"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:57
+msgid "0"
+msgstr "0"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:62
+msgid "Maximum Price"
+msgstr "Maksimum Fiyat"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:63
+msgid "1000"
+msgstr "1000"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:67
+msgid "Increment Step"
+msgstr "Artış Miktarı"
+
+#: oc/modules/widgets/classes/widget/subscribers.php:68
+msgid "100"
+msgstr "100"
+
+#: oc/modules/formmanager/classes/formmanager/core/formmanager.php:504
+msgid "Other"
+msgstr "Diğer"
+
+#: oc/classes/model/user.php:100
+msgid "Role"
+msgstr "Rol"
+
+#: oc/classes/model/user.php:103
+msgid "Last modified"
+msgstr "Son güncelleme"
+
+#: oc/classes/model/user.php:104
+msgid "Last login"
+msgstr "Son giriş"
+
+#: oc/classes/model/ad.php:87
+msgid "User"
+msgstr "Kullanıcı"
+
+#: oc/classes/model/ad.php:92
+msgid "SEO title"
+msgstr "SEO başlığı"
+
+#: oc/classes/model/ad.php:97
+msgid "Ip address"
+msgstr "Ip adresi"
+
+#: oc/classes/model/ad.php:101
+msgid "Has images"
+msgstr "Resim sahibi"
+
+#: oc/classes/model/location.php:62 oc/classes/model/category.php:77
+msgid "Parent"
+msgstr "Üst"
+
+#: oc/classes/model/location.php:63 oc/classes/model/category.php:78
+msgid "Parent deep"
+msgstr "Üst kategoriye uzaklık"
+
+#: oc/classes/model/location.php:64 oc/classes/model/category.php:79
+msgid "Seoname"
+msgstr "Seo adı"
+
+#: oc/classes/model/category.php:75
+msgid "Order"
+msgstr "Sıra"
+
+#: oc/classes/model/subscribe.php:113
+#: oc/classes/controller/panel/newsletter.php:34
+msgid "Error on mail delivery, not sent"
+msgstr "E-posta gönderiminde sorun, gönderilemedi"
+
+#: oc/classes/alert.php:149
+msgid "Info"
+msgstr "Bilgi"
+
+#: oc/classes/alert.php:152
+msgid "Warning"
+msgstr "Uyarı"
+
+#: oc/classes/alert.php:155 oc/classes/controller/panel/fields.php:159
+#: oc/classes/controller/panel/menu.php:49
+#: oc/classes/controller/panel/location.php:83
+#: oc/classes/controller/panel/category.php:82
+msgid "Error"
+msgstr "Hata"
+
+#: oc/classes/alert.php:158
+msgid "Success"
+msgstr "Başarılı"
+
+#: oc/classes/controller/new.php:187 oc/classes/controller/subscribe.php:37
+msgid "New profile has been created. Welcome "
+msgstr "Yeni profil oluşturuldu. Hoşgeldin"
+
+#: oc/classes/controller/new.php:211 oc/classes/controller/social.php:114
+#: oc/classes/controller/panel/auth.php:106
+#: oc/classes/controller/panel/auth.php:191
+#: oc/classes/controller/subscribe.php:100
+msgid "Invalid Email"
+msgstr "Geçersiz E-posta"
+
+#: oc/classes/controller/new.php:240
+msgid ""
+"This post has been considered as spam! We are sorry but we cant publish this "
+"advertisement."
+msgstr ""
+"Bu ileti spam olarak değerlendirildi! Üzgünüm ancak ilanı yayınlayamıyoruz."
+
+#: oc/classes/controller/new.php:369
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Resimler yüklenirken bir hata oluştu, lütfen formatı kontrol edin"
+
+#: oc/classes/controller/new.php:377
+msgid "Something went wrong with uploading pictures"
+msgstr "Resimler yüklenirken bir hata oluştu"
+
+#: oc/classes/controller/new.php:397
+msgid "Advertisement is published. Congratulations!"
+msgstr "İlan yayınlandı. Tebrikler!"
+
+#: oc/classes/controller/new.php:403
+msgid ""
+"Advertisement is created but needs to be validated first before it is "
+"published."
+msgstr "İlan oluşturuldu ancak yayınlanmadan önce onaylanması gerekiyor."
+
+#: oc/classes/controller/new.php:413
+msgid ""
+"Advertisement is posted but first you need to activate. Please check your "
+"email!"
+msgstr ""
+"İlan gönderildi, ancak öncek aktive etmeniz gerekiyor. Lütfen e-posta "
+"adresinizi kontrol edin!"
+
+#: oc/classes/controller/new.php:418 oc/classes/controller/ad.php:483
+msgid ""
+"Advertisement is received, but first administrator needs to validate. Thank "
+"you for being patient!"
+msgstr ""
+"İlan alındı, ancak yöneticinin onaylaması gerekiyor. Sabrınız için şimdiden "
+"teşekkürler!"
+
+#: oc/classes/controller/new.php:424
+msgid "Advertisement is posted. Congratulations!"
+msgstr "İlan gönderildi. Tebrikler!"
+
+#: oc/classes/controller/new.php:433
+msgid "Captcha is not correct"
+msgstr "Resim doğrulanamadı"
+
+#: oc/classes/controller/feed.php:12
+msgid "Latest published"
+msgstr "Son yayınlanan"
+
+#: oc/classes/controller/feed.php:70
+msgid "Latest post published"
+msgstr "Son yayınlanan ileti"
+
+#: oc/classes/controller/social.php:58
+msgid "We need your email address to complete"
+msgstr "Tamamlamak için e-posta adresinize ihtiyacımız var"
+
+#: oc/classes/controller/social.php:73 oc/classes/controller/social.php:109
+#: oc/classes/controller/panel/auth.php:177
+msgid "Welcome!"
+msgstr "Hoşgeldiniz!"
+
+#: oc/classes/controller/social.php:80
+msgid "Error: please try again!"
+msgstr "Hata: lütfen tekrar deneyin!"
+
+#: oc/classes/controller/social.php:120
+#: oc/classes/controller/panel/auth.php:197
+msgid "Register new user"
+msgstr "Yeni kullanıcı kaydı"
+
+#: oc/classes/controller/panel/content.php:18
+msgid "contents"
+msgstr "içerikler"
+
+#: oc/classes/controller/panel/content.php:24
+msgid "You dont have any "
+msgstr "Şunlardan hiç yok"
+
+#: oc/classes/controller/panel/content.php:76
+msgid "is created"
+msgstr "oluşturuldu"
+
+#: oc/classes/controller/panel/content.php:124
+msgid "is edited"
+msgstr "düzenlendi"
+
+#: oc/classes/controller/panel/content.php:135
+msgid "Faild to load content"
+msgstr "İçerik yüklenemedi"
+
+#: oc/classes/controller/panel/content.php:159
+msgid "Content is deleted"
+msgstr "İçerik silindi"
+
+#: oc/classes/controller/panel/content.php:167
+msgid "Content is not deleted"
+msgstr "İçerik silinmedi"
+
+#: oc/classes/controller/panel/settings.php:97
+msgid "Email Configuration updated"
+msgstr "E-posta Ayarları güncellendi"
+
+#: oc/classes/controller/panel/settings.php:178
+#: oc/classes/controller/panel/settings.php:228
+msgid "General Configuration updated"
+msgstr "Genel Ayarlar güncellendi"
+
+#: oc/classes/controller/panel/settings.php:194
+#: oc/classes/controller/panel/settings.php:195
+msgid "Payments"
+msgstr "Ödemeler"
+
+#: oc/classes/controller/panel/widget.php:116
+msgid "Widget parameter missing"
+msgstr "Eklenti parametresi kayıp"
+
+#: oc/classes/controller/panel/widget.php:173
+#: oc/classes/controller/panel/fields.php:157
+#: oc/classes/controller/panel/menu.php:46
+#: oc/classes/controller/panel/location.php:80
+#: oc/classes/controller/panel/category.php:79
+msgid "Saved"
+msgstr "Kaydedildi"
+
+#: oc/classes/controller/panel/profile.php:53
+msgid "Password is changed"
+msgstr "Şifre değiştirildi"
+
+#: oc/classes/controller/panel/profile.php:57
+msgid "Nothing is provided"
+msgstr "Bir şey girilmedi"
+
+#: oc/classes/controller/panel/profile.php:62
+#: oc/classes/controller/panel/auth.php:186
+msgid "Passwords do not match"
+msgstr "Şifreler eşleşmiyor"
+
+#: oc/classes/controller/panel/profile.php:91
+msgid "Image is not valid. Please try again."
+msgstr "Resim geçersiz. Lütfen tekrar deneyin."
+
+#: oc/classes/controller/panel/profile.php:120
+msgid "Image is uploaded."
+msgstr "Resim yüklendi."
+
+#: oc/classes/controller/panel/profile.php:155
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Yeni şifre geçersiz veya eşleşmiyorlar! Lütfen tekrar deneyin."
+
+#: oc/classes/controller/panel/profile.php:162
+msgid "You have successfuly changed your data"
+msgstr "Veriler başarıyla değiştirildi"
+
+#: oc/classes/controller/panel/profile.php:200
+msgid "My Advertisement page "
+msgstr "İlan sayfam"
+
+#: oc/classes/controller/panel/profile.php:244
+#: oc/classes/controller/panel/profile.php:295
+msgid "This is not your advertisement."
+msgstr "Bu sizin ilanınız değil"
+
+#: oc/classes/controller/panel/profile.php:273
+#: oc/classes/controller/panel/ad.php:348
+msgid "Advertisement is deactivated"
+msgstr "İlan pasif edildi"
+
+#: oc/classes/controller/panel/profile.php:348
+#: oc/classes/controller/panel/ad.php:425
+msgid "Advertisement is active and published"
+msgstr "İlan aktif ve yayınlandı"
+
+#: oc/classes/controller/panel/profile.php:360
+#: oc/classes/controller/panel/profile.php:361
+msgid "Edit advertisement"
+msgstr "İlanı düzenle"
+
+#: oc/classes/controller/panel/profile.php:540
+#: oc/classes/controller/panel/profile.php:543
+#: oc/classes/controller/panel/profile.php:568
+#: oc/classes/controller/panel/profile.php:571
+msgid "Advertisement is updated!"
+msgstr "İlan güncellendi!"
+
+#: oc/classes/controller/panel/profile.php:598
+msgid "Advertisement is updated"
+msgstr "İlan güncellendi"
+
+#: oc/classes/controller/panel/profile.php:613
+#: oc/classes/controller/panel/ad.php:234
+msgid "You dont have permission to access this link"
+msgstr "Bu linke geçiş izniniz bulunmuyor"
+
+#: oc/classes/controller/panel/profile.php:844
+msgid "No Subscriptions"
+msgstr "Abonelik Yok"
+
+#: oc/classes/controller/panel/profile.php:859
+#: oc/classes/controller/subscribe.php:121
+msgid "You are unsubscribed"
+msgstr "Abonelik iptal edildi"
+
+#: oc/classes/controller/panel/translations.php:21
+msgid "List"
+msgstr "Listele"
+
+#: oc/classes/controller/panel/translations.php:88
+#: oc/classes/controller/panel/translations.php:89
+msgid "Edit Translation"
+msgstr "Çeviriyi Düzenle"
+
+#: oc/classes/controller/panel/translations.php:141
+msgid "Language saved"
+msgstr "Dl kaydedildi"
+
+#: oc/classes/controller/panel/update.php:36
+msgid "You are not using latest version of OC, please update."
+msgstr "OC son sürümünü kullanmıyorsunuz, lütfen güncelleyin."
+
+#: oc/classes/controller/panel/update.php:260
+msgid "Updated"
+msgstr "Güncellendi"
+
+#: oc/classes/controller/panel/update.php:304
+#: oc/classes/controller/panel/theme.php:218
+msgid "Zip file faild to extract, please try again."
+msgstr "Zip dosyası açılamadı, lütfen tekrar deneyin."
+
+#: oc/classes/controller/panel/fields.php:17
+msgid "Custom Fields for Advertisements"
+msgstr "İlan Özel Alanları"
+
+#: oc/classes/controller/panel/fields.php:34
+msgid "New Custom Field for Advertisement"
+msgstr "Yeni Özel Alan"
+
+#: oc/classes/controller/panel/fields.php:79
+msgid "Edit Custom Field for Advertisement"
+msgstr "Özel Alanı Düzenle"
+
+#: oc/classes/controller/panel/newsletter.php:36
+msgid "Email sent to all the users"
+msgstr "Tüm kullanıcılara e-posta gönderildi"
+
+#: oc/classes/controller/panel/newsletter.php:40
+msgid "Mail not sent"
+msgstr "Mail gönderilmedi"
+
+#: oc/classes/controller/panel/theme.php:65
+msgid "Theme configuration updated"
+msgstr "Tema ayarı güncellendi"
+
+#: oc/classes/controller/panel/theme.php:119
+msgid "Appearance configuration updated"
+msgstr "Görünüm ayarları güncellendi"
+
+#: oc/classes/controller/panel/theme.php:151
+msgid "Theme activated, thanks."
+msgstr "Tema aktive edildi, teşekkürler."
+
+#: oc/classes/controller/panel/theme.php:156
+msgid "There was an error activating your license."
+msgstr "Lisans aktive edilirken bir sorun oluştu."
+
+#: oc/classes/controller/panel/theme.php:178
+msgid "Mobile Theme updated"
+msgstr "Mobil Tema güncellendi"
+
+#: oc/classes/controller/panel/theme.php:195
+msgid "Is not valid format, please use ZIP format"
+msgstr "Geçerli formartta değil, lütfen ZIP formatı kullanın"
+
+#: oc/classes/controller/panel/theme.php:222
+msgid "You have succesfully installed the theme!"
+msgstr "Temayı başarıyla yüklediniz!"
+
+#: oc/classes/controller/panel/social.php:16
+msgid "Social Authentication for login"
+msgstr "Sosyal Giriş"
+
+#: oc/classes/controller/panel/tools.php:29
+#: oc/classes/controller/panel/tools.php:31
+msgid "Optimize DB"
+msgstr "Veritabanını Optimize Et"
+
+#: oc/classes/controller/panel/tools.php:46
+msgid "Database Optimized"
+msgstr "Veritabanını Optimize Edildi"
+
+#: oc/classes/controller/panel/tools.php:92
+msgid "All cache deleted"
+msgstr "Tüm önbellek silindi"
+
+#: oc/classes/controller/panel/tools.php:100
+msgid "Deleted expired cache"
+msgstr "Sonlanmış önbellek silindi"
+
+#: oc/classes/controller/panel/tools.php:131
+#: oc/classes/controller/panel/tools.php:133
+msgid "System logs"
+msgstr "Sistem kayıtları"
+
+#: oc/classes/controller/panel/tools.php:180
+msgid "Sitemap Configuration updated"
+msgstr "Site Haritası Ayarı güncellendi"
+
+#: oc/classes/controller/panel/tools.php:204
+msgid "Open Classifieds migration"
+msgstr "Open Classifieds taşınma"
+
+#: oc/classes/controller/panel/tools.php:212
+msgid "Database cleaned"
+msgstr "Veritabanı temizlendi"
+
+#: oc/classes/controller/panel/tools.php:248
+msgid "Review database connection parameters"
+msgstr "Yorumlar için veritabanı bağlantı parametreleri"
+
+#: oc/classes/controller/panel/menu.php:64
+msgid "Menu deleted"
+msgstr "Menü silindi"
+
+#: oc/classes/controller/panel/menu.php:75
+msgid "Menu created"
+msgstr "Menü oluşturuldu"
+
+#: oc/classes/controller/panel/menu.php:77
+msgid "Menu not created"
+msgstr "Menü oluşturulmadı"
+
+#: oc/classes/controller/panel/auth.php:32
+msgid "Wrong email or password"
+msgstr "Hatalı e-posta veya şifre"
+
+#: oc/classes/controller/panel/auth.php:93
+msgid "Email to recover password sent"
+msgstr "Şifre kurtarmada kullanılacak e-posta"
+
+#: oc/classes/controller/panel/auth.php:100
+msgid "User not in database"
+msgstr "Kullanıcı veritabanında kayıtlı değil"
+
+#: oc/classes/controller/panel/auth.php:145
+msgid "User already exists"
+msgstr "Kullanıcı zaten mevcut"
+
+#: oc/classes/controller/panel/ad.php:166
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Onay bekleyen yayınlanacak ilanınız bulunmuyor"
+
+#: oc/classes/controller/panel/ad.php:214
+#: oc/classes/controller/panel/ad.php:455
+msgid "Warning, something went wrong while deleting"
+msgstr "Uyarı, silme işlemi yapılırken bazı hatalar oluştu"
+
+#: oc/classes/controller/panel/ad.php:221
+msgid "Advertisement is deleted"
+msgstr "İlan silindi"
+
+#: oc/classes/controller/panel/ad.php:271
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Uyarı, ilan zaten spam olarak işaretlenmiş"
+
+#: oc/classes/controller/panel/ad.php:287
+msgid "Advertisement is marked as spam"
+msgstr "İlan spam olarak işaretlendi"
+
+#: oc/classes/controller/panel/ad.php:512
+msgid "Advertisement is featured"
+msgstr "İlan sponsor olarak listeleniyor"
+
+#: oc/classes/controller/panel/ad.php:554
+msgid "Advertisement is to top"
+msgstr "İlan en üstte listeleniyor"
+
+#: oc/classes/controller/panel/location.php:116
+msgid "Location deleted"
+msgstr "Konum silindi"
+
+#: oc/classes/controller/panel/location.php:125
+msgid "Location not deleted"
+msgstr "Konum silinmedi"
+
+#: oc/classes/controller/panel/category.php:117
+msgid "Category deleted"
+msgstr "Kategori silindi"
+
+#: oc/classes/controller/panel/category.php:126
+msgid "Category not deleted"
+msgstr "Kategori silinmedi"
+
+#: oc/classes/controller/contact.php:34 oc/classes/controller/contact.php:87
+#: oc/classes/controller/contact.php:148
+msgid "Your message has been sent"
+msgstr "Mesajınız gönderildi"
+
+#: oc/classes/controller/contact.php:36 oc/classes/controller/contact.php:106
+#: oc/classes/controller/contact.php:150
+msgid "Message not sent"
+msgstr "Mesaj gönderilemedi"
+
+#: oc/classes/controller/contact.php:40 oc/classes/controller/contact.php:113
+#: oc/classes/controller/contact.php:154
+msgid ""
+"This email has been considered as spam! We are sorry but we can not send "
+"this email."
+msgstr ""
+"Bu e-posta spam olarak değerlendirildi! Üzgünüz ancak bu e-postayı "
+"gönderemeyiz."
+
+#: oc/classes/controller/contact.php:44
+msgid "Check the form for errors"
+msgstr "Form hatalarını kontrol edin"
+
+#: oc/classes/controller/contact.php:118 oc/classes/controller/contact.php:159
+msgid "You made some mistake"
+msgstr "Bazı hatalar yaptınız"
+
+#: oc/classes/controller/payment/paypal.php:106
+msgid "Advertisement to featured"
+msgstr "Sponsor olarak listele"
+
+#: oc/classes/controller/payment/paypal.php:108
+msgid "Advertisement to top"
+msgstr "En üstte listele"
+
+#: oc/classes/controller/payment/paypal.php:110
+msgid " category"
+msgstr "kategori"
+
+#: oc/classes/controller/payment/paypal.php:129
+msgid "Order could not be loaded"
+msgstr "Sipariş yüklenemedi"
+
+#: oc/classes/controller/ad.php:51
+msgid "all"
+msgstr "tümü"
+
+#: oc/classes/controller/ad.php:467
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "İlanınız başarıyla aktive edildi! Teşekkürler!"
+
+#: oc/classes/controller/ad.php:622
+msgid "We did not find any advertisements for your search."
+msgstr "Aramanızla eşleşen ilan bulunamadı."
+
+#: oc/classes/controller/subscribe.php:95
+msgid "Thank you for subscribing"
+msgstr "Abone olduğunuz için teşekkürler"
+
+#: oc/classes/sitemap.php:148
+msgid "No sitemap generated"
+msgstr "Site haritası oluşturulmadı"
+
+#: oc/classes/controller.php:150
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Bakım modundasınız, sadece websitesini görüntüleyebilirsiniz"
+
+#: oc/classes/auth/crud.php:149
+msgid "Item created"
+msgstr "Öge oluşturuldu"
+
+#: oc/classes/auth/crud.php:149 oc/classes/auth/crud.php:179
+msgid "Please to see the changes delete the cache"
+msgstr "Değişiklikleri görmek için lütfen önbelleği temizleyin"
+
+#: oc/classes/auth/crud.php:157 oc/classes/auth/crud.php:186
+msgid "Check form for errors"
+msgstr "Form hatalarını kontrol edin"
+
+#: oc/classes/auth/crud.php:179
+msgid "Item updated"
+msgstr "Öge güncellendi"
+
+#: oc/classes/auth/crud.php:243
+msgid "Access not allowed"
+msgstr "Geçiç izni yok"
+
+#: oc/classes/form.php:111
+msgid "Some errors in the form"
+msgstr "Formadaki bazı hatalar"
