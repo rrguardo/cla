@@ -2,5 +2,5 @@
 *~
 images/
 sitemap*
-oc/cache/
-oc/logs/
+oc/cache/*
+oc/logs/*

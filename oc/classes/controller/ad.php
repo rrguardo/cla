@@ -2,6 +2,37 @@
 
 class Controller_Ad extends Controller {
 	
+	
+	public function fget_keywords($category_parent, $category, $location_parent, $location)
+	{
+		$main_keyw = array("anuncios","clasificados","");
+		$base_arr = array("dominicana", "dominicanos", "republica dominicana","compro","compra","vendo","venta","rento","renta","alquilo","alquiler","");
+		$base_info = array($category_parent, $category, $location_parent, $location);		
+		$keywords = "";
+		
+		foreach ($main_keyw as $value_main) {
+			foreach ($base_arr as $value) {
+				$sub_base = $value_main ." ". $value . " ";
+	    		//with main category	    		
+	    		$keywords .= $sub_base;
+				$keywords .= $base_info[0] ." ". $base_info[2] ." ". $base_info[3];
+	    		$keywords .= ", ";
+	    		//with main sub category	    		
+	    		$keywords .= $sub_base;
+				$keywords .= $base_info[1] ." ". $base_info[2] ." ". $base_info[3];
+	    		$keywords .= ", ";
+	    		//with 2 categories	    		
+	    		$keywords .= $sub_base;
+				$keywords .= $base_info[0] ." ". $base_info[1] ." ". $base_info[2] ." ". $base_info[3];
+	    		$keywords .= ", ";
+			}
+		}
+		$keywords = substr($keywords, 0, -2);
+		$keywords = str_replace("  ", " ", $keywords);
+		$keywords = str_replace("  ", " ", $keywords);
+		$keywords = str_replace("  ", " ", $keywords);		
+		return $keywords;
+	}
 
 	/**
 	 * Publis all adver.-s without filter
@@ -58,6 +89,7 @@ class Controller_Ad extends Controller {
         if ($location!==NULL)
         {
             $this->template->title .= ' - '.$location->name;
+				$this->template->meta_description = $location->description;
 
             if ($location_parent!==NULL)
             {
@@ -90,8 +122,7 @@ class Controller_Ad extends Controller {
                     ->set_url(Route::url('list', array('category'=>$category->seoname))));
         }
 
-
-    
+    	  $this->template->meta_keywords = fget_keywords($category_parent->name, $category->name, $location_parent->name, $location->name);
 
         $data = $this->list_logic($category, $location);
    		
