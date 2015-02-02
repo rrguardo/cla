@@ -5,8 +5,8 @@ class Controller_Ad extends Controller {
 	
 	public function fget_keywords($category_parent, $category, $location_parent, $location)
 	{
-		$main_keyw = array("anuncios","clasificados","");
-		$base_arr = array("dominicana", "dominicanos", "republica dominicana","compro","compra","vendo","venta","rento","renta","alquilo","alquiler","");
+		$main_keyw = array("","anuncios","clasificados");
+		$base_arr = array("","dominicana", "dominicanos", "republica dominicana","compro","compra","vendo","venta","rento","renta","alquilo","alquiler");
 		$base_info = array($category_parent, $category, $location_parent, $location);		
 		$keywords = "";
 		
@@ -30,7 +30,8 @@ class Controller_Ad extends Controller {
 		$keywords = substr($keywords, 0, -2);
 		$keywords = str_replace("  ", " ", $keywords);
 		$keywords = str_replace("  ", " ", $keywords);
-		$keywords = str_replace("  ", " ", $keywords);		
+		$keywords = str_replace("  ", " ", $keywords);
+		$keywords = str_replace(" ,", ",", $keywords);		
 		return $keywords;
 	}
 
@@ -76,7 +77,6 @@ class Controller_Ad extends Controller {
                     $category_parent = $category->parent;
 
             }
-           
         }
 
         //base title
@@ -89,7 +89,6 @@ class Controller_Ad extends Controller {
         if ($location!==NULL)
         {
             $this->template->title .= ' - '.$location->name;
-				$this->template->meta_description = $location->description;
 
             if ($location_parent!==NULL)
             {
@@ -129,15 +128,17 @@ class Controller_Ad extends Controller {
 
 		  if( !empty($category_parent) ) {
 		  		$category_parent_ = $category_parent->name;
+		  		$this->template->meta_description = $category_parent->description;
 		  }
 		  if( !empty($category) ) {
 		  		$category_ = $category->name;
+		  		$this->template->meta_description .= " " . $category->description;
 		  }
 		  if( !empty($location) ) {
 		  		$location_ = $location->name;
 		  }
 		  if( !empty($location_parent) ) {
-		  		$$location_parent_ = $location_parent->name;
+		  		$location_parent_ = $location_parent->name;
 		  }
 
     	  $this->template->meta_keywords = $this->fget_keywords($category_parent_, $category_, $location_parent_, $location_);
