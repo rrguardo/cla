@@ -132,7 +132,7 @@ class Controller_Ad extends Controller {
 		  }
 		  if( !empty($category) ) {
 		  		$category_ = $category->name;
-		  		$this->template->meta_description .= " " . $category->description;
+		  		$this->template->meta_description = $category->description;
 		  }
 		  if( !empty($location) ) {
 		  		$location_ = $location->name;
