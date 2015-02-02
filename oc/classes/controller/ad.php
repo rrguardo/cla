@@ -136,7 +136,7 @@ class Controller_Ad extends Controller {
 		  }
 		  if( !empty($location) ) {
 		  		$location_ = $location->name;
-		  		$this->template->meta_description .= " En República Dominicana " . $location_; 
+		  		$this->template->meta_description .= " En República Dominicana, " . $location_; 
 		  }
 		  if( !empty($location_parent) ) {
 		  		$location_parent_ = $location_parent->name;
