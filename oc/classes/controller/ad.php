@@ -122,7 +122,25 @@ class Controller_Ad extends Controller {
                     ->set_url(Route::url('list', array('category'=>$category->seoname))));
         }
 
-    	  $this->template->meta_keywords = $this->fget_keywords($category_parent->name, $category->name, $location_parent->name, $location->name);
+        $category_parent_ = "";
+		  $category_ = "";        
+		  $location_ = "";
+		  $location_parent_ = "";
+
+		  if( !empty($category_parent) ) {
+		  		$category_parent_ = $category_parent->name;
+		  }
+		  if( !empty($category) ) {
+		  		$category_ = $category->name;
+		  }
+		  if( !empty($location) ) {
+		  		$location_ = $location->name;
+		  }
+		  if( !empty($location_parent) ) {
+		  		$$location_parent_ = $location_parent->name;
+		  }
+
+    	  $this->template->meta_keywords = $this->fget_keywords($category_parent_, $category_, $location_parent_, $location_);
 
         $data = $this->list_logic($category, $location);
    		
