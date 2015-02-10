@@ -5,6 +5,7 @@ class Controller_Ad extends Controller {
 	
 	public function fget_keywords($category_parent, $category, $location_parent, $location)
 	{
+        return "";
 		$main_keyw = array("","anuncios","clasificados");
 		$base_arr = array("","dominicana", "dominicanos", "republica dominicana","compro","compra","vendo","venta","rento","renta","alquilo","alquiler");
 		$base_info = array($category_parent, $category, $location_parent, $location);		
