@@ -98,6 +98,18 @@
                 </a>
                 <?endif?>
             </article>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- footerHoriz -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1432664808275238"
+     data-ad-slot="5847278709"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
         
         <?endforeach?>
 
